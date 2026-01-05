@@ -109,7 +109,7 @@ var detail = {
     },
     insertFrontPart: function (key, uri, data, props, res) {
         var div = $('#pageContent');
-        let html = `<form id="irdfForm" target="_blank" style="display:none;" method="post" action="${ws.endpoint}${uri.split("/")[3]}"><input type="hidden" name="query" id="irdfQuery"/></form>`;
+        let html = `<form id="irdfForm" target="_blank" style="display:none;" method="post" action="${ws.endpoint}"><input type="hidden" name="query" id="irdfQuery"/></form>`;
         props.forEach((i) => {
             let ul = this.getObj(data, i);
             //console.log(ul);

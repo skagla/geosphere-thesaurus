@@ -1,0 +1,1357 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rdf:RDF
+	xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+	xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#"
+	xmlns:skos="http://www.w3.org/2004/02/skos/core#"
+	xmlns:skosxl="http://www.w3.org/2008/05/skos-xl#"
+	xmlns:owl="http://www.w3.org/2002/07/owl#"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:dcterms="http://purl.org/dc/terms/"
+	xmlns:csw="http://semantic-web.at/ontologies/csw.owl#"
+	xmlns:ctag="http://commontag.org/ns#"
+	xmlns:opencyc="http://sw.opencyc.org/concept/"
+	xmlns:freebase="http://rdf.freebase.com/ns/"
+	xmlns:xsd="http://www.w3.org/2001/XMLSchema#"
+	xmlns:tags="http://www.holygoat.co.uk/owl/redwood/0.1/tags/"
+	xmlns:foaf="http://xmlns.com/foaf/0.1/"
+	xmlns:cyc="http://sw.cyc.com/concept/"
+	xmlns:cycAnnot="http://sw.cyc.com/CycAnnotations_v1#"
+	xmlns:dbpedia="http://dbpedia.org/resource/">
+
+<rdf:Description rdf:about="https://resource.geosphere.at/thes/geomorph/296">
+	<skos:broader rdf:resource="https://resource.geosphere.at/thes/geomorph/295"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="https://resource.geosphere.at/thes/geomorph/976">
+	<skos:broader rdf:resource="https://resource.geosphere.at/thes/geomorph/969"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="https://resource.geosphere.at/thes/geomorph/325">
+	<skos:broader rdf:resource="https://resource.geosphere.at/thes/geomorph/324"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="https://resource.geosphere.at/thes/geomorph/973">
+	<skos:broader rdf:resource="https://resource.geosphere.at/thes/geomorph/974"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="https://resource.geosphere.at/thes/geomorph/328">
+	<skos:broader rdf:resource="https://resource.geosphere.at/thes/geomorph/327"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="https://resource.geosphere.at/thes/geomorph/290">
+	<skos:broader rdf:resource="https://resource.geosphere.at/thes/geomorph/305"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="https://resource.geosphere.at/thes/geomorph/329">
+	<skos:broader rdf:resource="https://resource.geosphere.at/thes/geomorph/328"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="https://resource.geosphere.at/thes/geomorph/978">
+	<skos:broader rdf:resource="https://resource.geosphere.at/thes/geomorph/296"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="https://resource.geosphere.at/thes/geomorph/377">
+	<skos:broader rdf:resource="https://resource.geosphere.at/thes/geomorph/316"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="https://resource.geosphere.at/thes/geomorph/298">
+	<skos:broader rdf:resource="https://resource.geosphere.at/thes/geomorph/983"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="https://resource.geosphere.at/thes/geomorph/316">
+	<skos:broader rdf:resource="https://resource.geosphere.at/thes/geomorph/295"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="https://resource.geosphere.at/thes/geomorph/319">
+	<skos:broader rdf:resource="https://resource.geosphere.at/thes/geomorph/316"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="https://resource.geosphere.at/thes/geomorph/330">
+	<skos:broader rdf:resource="https://resource.geosphere.at/thes/geomorph/327"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="https://resource.geosphere.at/thes/geomorph/350">
+	<skos:broader rdf:resource="https://resource.geosphere.at/thes/geomorph/348"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="https://resource.geosphere.at/thes/geomorph/352">
+	<skos:broader rdf:resource="https://resource.geosphere.at/thes/geomorph/346"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="https://resource.geosphere.at/thes/geomorph/264">
+	<skos:broader rdf:resource="https://resource.geosphere.at/thes/geomorph/295"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="https://resource.geosphere.at/thes/geomorph/117">
+	<skos:broader rdf:resource="https://resource.geosphere.at/thes/geomorph/305"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="https://resource.geosphere.at/thes/geomorph/347">
+	<skos:broader rdf:resource="https://resource.geosphere.at/thes/geomorph/346"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="https://resource.geosphere.at/thes/geomorph/300">
+	<skos:broader rdf:resource="https://resource.geosphere.at/thes/geomorph/301"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="https://resource.geosphere.at/thes/geomorph/323">
+	<skos:broader rdf:resource="https://resource.geosphere.at/thes/geomorph/321"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="https://resource.geosphere.at/thes/geomorph/306">
+	<skos:broader rdf:resource="https://resource.geosphere.at/thes/geomorph/305"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="https://resource.geosphere.at/thes/geomorph/975">
+	<skos:broader rdf:resource="https://resource.geosphere.at/thes/geomorph/969"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="https://resource.geosphere.at/thes/geomorph/304">
+	<skos:broader rdf:resource="https://resource.geosphere.at/thes/geomorph/327"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="https://resource.geosphere.at/thes/geomorph/326">
+	<skos:broader rdf:resource="https://resource.geosphere.at/thes/geomorph/324"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="https://resource.geosphere.at/thes/geomorph/302">
+	<skos:broader rdf:resource="https://resource.geosphere.at/thes/geomorph/327"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="https://resource.geosphere.at/thes/geomorph/353">
+	<skos:broader rdf:resource="https://resource.geosphere.at/thes/geomorph/346"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="https://resource.geosphere.at/thes/geomorph/299">
+	<skos:broader rdf:resource="https://resource.geosphere.at/thes/geomorph/296"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="https://resource.geosphere.at/thes/geomorph/346">
+	<skos:broader rdf:resource="https://resource.geosphere.at/thes/geomorph/969"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="https://resource.geosphere.at/thes/geomorph/351">
+	<skos:broader rdf:resource="https://resource.geosphere.at/thes/geomorph/348"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="https://resource.geosphere.at/thes/geomorph/311">
+	<skos:broader rdf:resource="https://resource.geosphere.at/thes/geomorph/310"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="https://resource.geosphere.at/thes/geomorph/310">
+	<skos:broader rdf:resource="https://resource.geosphere.at/thes/geomorph/305"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="https://resource.geosphere.at/thes/geomorph/116">
+	<skos:broader rdf:resource="https://resource.geosphere.at/thes/geomorph/295"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="https://resource.geosphere.at/thes/geomorph/315">
+	<skos:broader rdf:resource="https://resource.geosphere.at/thes/geomorph/314"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="https://resource.geosphere.at/thes/geomorph/978">
+	<skos:broader rdf:resource="https://resource.geosphere.at/thes/geomorph/969"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="https://resource.geosphere.at/thes/geomorph/365">
+	<skos:broader rdf:resource="https://resource.geosphere.at/thes/geomorph/316"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="https://resource.geosphere.at/thes/geomorph/974">
+	<skos:broader rdf:resource="https://resource.geosphere.at/thes/geomorph/969"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="https://resource.geosphere.at/thes/geomorph/982">
+	<skos:broader rdf:resource="https://resource.geosphere.at/thes/geomorph/970"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="https://resource.geosphere.at/thes/geomorph/327">
+	<skos:broader rdf:resource="https://resource.geosphere.at/thes/geomorph/295"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="https://resource.geosphere.at/thes/geomorph/307">
+	<skos:broader rdf:resource="https://resource.geosphere.at/thes/geomorph/305"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="https://resource.geosphere.at/thes/geomorph/288">
+	<skos:broader rdf:resource="https://resource.geosphere.at/thes/geomorph/305"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="https://resource.geosphere.at/thes/geomorph/970">
+	<skos:broader rdf:resource="https://resource.geosphere.at/thes/geomorph/969"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="https://resource.geosphere.at/thes/geomorph/235">
+	<dcterms:created rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2015-11-24T15:03:11.000Z</dcterms:created>
+	<rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#ConceptScheme"/>
+	<skos:hasTopConcept rdf:resource="https://resource.geosphere.at/thes/geomorph/295"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="https://resource.geosphere.at/thes/geomorph/295">
+	<skos:narrower rdf:resource="https://resource.geosphere.at/thes/geomorph/305"/>
+	<skos:narrower rdf:resource="https://resource.geosphere.at/thes/geomorph/301"/>
+	<skos:altLabel xml:lang="de">Oberflächenform</skos:altLabel>
+	<skos:topConceptOf rdf:resource="https://resource.geosphere.at/thes/geomorph/235"/>
+	<skos:definition xml:lang="de">Oberflächenform, welche durch Ablagerung oder Erosion gebildet wurde und die aufgrund ihres morphologischen Charakters beschrieben werden kann (Neuendorf et al., 2005).</skos:definition>
+	<skos:narrower rdf:resource="https://resource.geosphere.at/thes/geomorph/296"/>
+	<dcterms:hasVersion rdf:datatype="http://www.w3.org/2001/XMLSchema#int">17</dcterms:hasVersion>
+	<skos:narrower rdf:resource="https://resource.geosphere.at/thes/geomorph/116"/>
+	<rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+	<dcterms:references rdf:resource="https://resource.geosphere.at/thes/citation/545"/>
+	<skos:definition xml:lang="en">A surface, either depositional or erosional, that is recognised by its morphologic character (Neuendorf et al., 2005).</skos:definition>
+	<skos:narrower rdf:resource="https://resource.geosphere.at/thes/geomorph/316"/>
+	<skos:narrower rdf:resource="https://resource.geosphere.at/thes/geomorph/314"/>
+	<skos:narrower rdf:resource="https://resource.geosphere.at/thes/geomorph/327"/>
+	<skos:narrower rdf:resource="https://resource.geosphere.at/thes/geomorph/324"/>
+	<dcterms:created rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2011-06-06T14:30:11.000Z</dcterms:created>
+	<colourHexCode xmlns="http://dbpedia.org/ontology/">#FFFFFF</colourHexCode>
+	<skos:prefLabel xml:lang="de">Geomorphologische Einheit</skos:prefLabel>
+	<skos:narrower rdf:resource="https://resource.geosphere.at/thes/geomorph/264"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="https://resource.geosphere.at/thes/geomorph/305">
+	<rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+	<dcterms:hasVersion rdf:datatype="http://www.w3.org/2001/XMLSchema#int">14</dcterms:hasVersion>
+	<skos:narrower rdf:resource="https://resource.geosphere.at/thes/geomorph/117"/>
+	<skos:prefLabel xml:lang="en">Glacial feature</skos:prefLabel>
+	<dcterms:references rdf:resource="https://resource.geosphere.at/thes/citation/545"/>
+	<skos:narrower rdf:resource="https://resource.geosphere.at/thes/geomorph/308"/>
+	<skos:narrower rdf:resource="https://resource.geosphere.at/thes/geomorph/307"/>
+	<skos:narrower rdf:resource="https://resource.geosphere.at/thes/geomorph/309"/>
+	<skos:narrower rdf:resource="https://resource.geosphere.at/thes/geomorph/306"/>
+	<skos:narrower rdf:resource="https://resource.geosphere.at/thes/geomorph/310"/>
+	<dcterms:created rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2011-06-06T14:30:11.000Z</dcterms:created>
+	<colourHexCode xmlns="http://dbpedia.org/ontology/">#FFFFFF</colourHexCode>
+	<skos:prefLabel xml:lang="de">Glaziogene Form</skos:prefLabel>
+	<skos:definition xml:lang="en">A geologic feature formed by the action of a glacier or ice-sheet. (Steinbichler et al., 2019; Neuendorf et al., 2005).</skos:definition>
+	<skos:definition xml:lang="de">Geologische Form, die durch direkten oder indirekten Einfluss von Gletschern oder Inlandeis entstanden ist. (Steinbichler et al., 2019; Neuendorf et al., 2005).</skos:definition>
+	<dcterms:references rdf:resource="https://resource.geosphere.at/thes/citation/1302"/>
+	<skos:narrower rdf:resource="https://resource.geosphere.at/thes/geomorph/288"/>
+	<skos:narrower rdf:resource="https://resource.geosphere.at/thes/geomorph/290"/>
+	<skos:narrower rdf:resource="https://resource.geosphere.at/thes/geomorph/292"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="https://resource.geosphere.at/thes/geomorph/306">
+	<skos:exactMatch rdf:resource="http://dbpedia.org/resource/Drumlin"/>
+	<dcterms:hasVersion rdf:datatype="http://www.w3.org/2001/XMLSchema#int">6</dcterms:hasVersion>
+	<skos:prefLabel xml:lang="de">Drumlin</skos:prefLabel>
+	<skos:prefLabel xml:lang="en">Drumlin</skos:prefLabel>
+	<rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+	<skos:definition xml:lang="en">A streamlined till-covered hill with an oval outline that is made up of unconsolidated (glacial) material and formed by glacial action. The long axis is parallel to the glacial flow direction. (BWG 2003)</skos:definition>
+	<skos:definition xml:lang="de">Stromlinienförmiger, moränenbedeckter Hügel mit einem Kern aus Lockergesteinsmaterial und ovalem Grundriss. Seine Längsachse verläuft in Fließrichtung des ehemaligen Gletschers (BWG 2003).</skos:definition>
+	<dcterms:created rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2011-06-06T14:30:11.000Z</dcterms:created>
+	<dcterms:references rdf:resource="https://resource.geosphere.at/thes/citation/22"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="https://resource.geosphere.at/thes/geomorph/290">
+	<skos:exactMatch rdf:resource="http://dbpedia.org/resource/Esker"/>
+	<skos:altLabel xml:lang="de">Esker</skos:altLabel>
+	<skos:altLabel xml:lang="en">Esker</skos:altLabel>
+	<skos:definition xml:lang="en">A long, narrow, sinuous, steep-sided ridge composed of irregularly stratified sand and gravel that was deposited by a subglacial stream flowing between ice walls or in an ice tunnel of a stagnant or retreating glacier (Neuendorf et al., 2005).</skos:definition>
+	<dcterms:created rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2011-06-06T14:30:11.000Z</dcterms:created>
+	<rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+	<skos:prefLabel xml:lang="de">Os</skos:prefLabel>
+	<skos:prefLabel xml:lang="en">Os</skos:prefLabel>
+	<skos:definition xml:lang="de">Langer, schmaler, gewundener Wall mit steilen Flanken aus unregelmäßig geschichteten Sanden und Kiesen, der von einem subglazialen Strom in Tunneln in oder unter dem Eis von stagnierenden oder sich zurückziehenden Gletschern gebildet wurde (Neuendorf et al., 2005).</skos:definition>
+	<dcterms:hasVersion rdf:datatype="http://www.w3.org/2001/XMLSchema#int">6</dcterms:hasVersion>
+	<dcterms:references rdf:resource="https://resource.geosphere.at/thes/citation/545"/>
+	<skos:altLabel xml:lang="de">Oser</skos:altLabel>
+</rdf:Description>
+
+<rdf:Description rdf:about="https://resource.geosphere.at/thes/geomorph/307">
+	<skos:prefLabel xml:lang="de">Rundhöcker</skos:prefLabel>
+	<rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+	<dcterms:hasVersion rdf:datatype="http://www.w3.org/2001/XMLSchema#int">8</dcterms:hasVersion>
+	<skos:altLabel xml:lang="en">Sheepback rock</skos:altLabel>
+	<skos:definition xml:lang="en">A more or less streamlined hump of bedrock formed by glacial polishing. Can be striated and sometimes covered by till (BWG 2003).</skos:definition>
+	<skos:definition xml:lang="de">Mehr oder weniger stromlinienförmiger Felshöcker, der durch Gletscherschliff modelliert wurde und poliert, gekritzt oder durch eine Moräne bedeckt sein kann (BWG 2003).</skos:definition>
+	<dcterms:created rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2011-06-06T14:30:11.000Z</dcterms:created>
+	<dcterms:references rdf:resource="https://resource.geosphere.at/thes/citation/22"/>
+	<skos:prefLabel xml:lang="en">Roche moutonnée</skos:prefLabel>
+</rdf:Description>
+
+<rdf:Description rdf:about="https://resource.geosphere.at/thes/geomorph/308">
+	<skos:prefLabel xml:lang="de">Schmelzwasserrinne</skos:prefLabel>
+	<skos:definition xml:lang="de">In leicht erodierbaren Lockersedimenten angelegte Rinne. Üblicherweise werden Schmelzwasserrinnen nach ihrem Entstehungsort in subglaziale, entlang des Eisrandes oder im Gletschervorfeld entstandene Formen untergliedert (Wilhelmy, 2007).</skos:definition>
+	<dcterms:hasVersion rdf:datatype="http://www.w3.org/2001/XMLSchema#int">6</dcterms:hasVersion>
+	<skos:definition xml:lang="en">Erosional features in unconsolidated sediments that were formed by melt water channels. Usually these channels are classified by there formation as subglacial features, ice-marginal features or features formed in the apron of a glacier (Wilhelmy, 2007).</skos:definition>
+	<rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+	<skos:prefLabel xml:lang="en">Meltwater channel</skos:prefLabel>
+	<dcterms:references rdf:resource="https://resource.geosphere.at/thes/citation/894"/>
+	<dcterms:created rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2011-06-06T14:30:11.000Z</dcterms:created>
+</rdf:Description>
+
+<rdf:Description rdf:about="https://resource.geosphere.at/thes/geomorph/292">
+	<dcterms:created rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2011-06-06T14:30:11.000Z</dcterms:created>
+	<skos:prefLabel xml:lang="en">Outwash cone</skos:prefLabel>
+	<dcterms:references rdf:resource="https://resource.geosphere.at/thes/citation/545"/>
+	<skos:prefLabel xml:lang="de">Sanderkegel</skos:prefLabel>
+	<skos:definition xml:lang="en">A steeply sloping, cone-shaped accumulation of outwash deposited by meltwater streams at the margin of a shrinking glacier (fluvioglacial deposit) (Neuendorf et al., 2005).</skos:definition>
+	<dcterms:hasVersion rdf:datatype="http://www.w3.org/2001/XMLSchema#int">6</dcterms:hasVersion>
+	<rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+	<skos:definition xml:lang="de">Steil abfallende, kegelförmige Akkumulation glaziofluvialer Sedimente, die von Schmelzwasserströmen am Eisrand eines sich zurückziehenden Gletschers abgelagert wurde (Neuendorf et al., 2005).</skos:definition>
+	<colourHexCode xmlns="http://dbpedia.org/ontology/">#FFFFFF</colourHexCode>
+	<skos:altLabel xml:lang="de">Übergangskegel</skos:altLabel>
+</rdf:Description>
+
+<rdf:Description rdf:about="https://resource.geosphere.at/thes/geomorph/309">
+	<skos:prefLabel xml:lang="de">Toteisloch</skos:prefLabel>
+	<rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+	<dcterms:references rdf:resource="https://resource.geosphere.at/thes/citation/22"/>
+	<skos:altLabel xml:lang="en">Kettle</skos:altLabel>
+	<dcterms:hasVersion rdf:datatype="http://www.w3.org/2001/XMLSchema#int">6</dcterms:hasVersion>
+	<skos:exactMatch rdf:resource="http://dbpedia.org/resource/Kettle_(landform)"/>
+	<skos:prefLabel xml:lang="en">Kettle hole</skos:prefLabel>
+	<dcterms:created rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2011-06-06T14:30:11.000Z</dcterms:created>
+	<skos:definition xml:lang="de">Beim Abschmelzen von Toteis, welches durch Lockersedimente bedeckt wurde, entstandene Senke mit mehr oder weniger kreisförmigem Grundriss. (Steinbichler et al., 2019; BWG, 2003)</skos:definition>
+	<skos:definition xml:lang="en">A depression with a circular outline, formed by the melting of dead ice that was covered by outwash deposits. (Steinbichler et al., 2019; BWG, 2003)</skos:definition>
+	<dcterms:references rdf:resource="https://resource.geosphere.at/thes/citation/1302"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="https://resource.geosphere.at/thes/geomorph/310">
+	<rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+	<dcterms:hasVersion rdf:datatype="http://www.w3.org/2001/XMLSchema#int">11</dcterms:hasVersion>
+	<dcterms:references rdf:resource="https://resource.geosphere.at/thes/citation/22"/>
+	<skos:prefLabel xml:lang="de">Moränenwall</skos:prefLabel>
+	<skos:narrower rdf:resource="https://resource.geosphere.at/thes/geomorph/313"/>
+	<skos:narrower rdf:resource="https://resource.geosphere.at/thes/geomorph/312"/>
+	<skos:narrower rdf:resource="https://resource.geosphere.at/thes/geomorph/311"/>
+	<skos:definition xml:lang="de">Mehr oder weniger langgezogener, aus Moränenmaterial bestehender Hügel/Rücken, der durch einen Gletscher an dessen Stirn oder Rand gebildet wurde (BWG 2003).</skos:definition>
+	<skos:prefLabel xml:lang="en">Moraine ridge</skos:prefLabel>
+	<dcterms:created rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2011-06-06T14:30:11.000Z</dcterms:created>
+	<skos:definition xml:lang="en">A more or less elongated ridge or hill of moraine (till ) formed by a glacier, either at its leading edge or along its margin (BWG 2003).</skos:definition>
+</rdf:Description>
+
+<rdf:Description rdf:about="https://resource.geosphere.at/thes/geomorph/311">
+	<skos:prefLabel xml:lang="de">Seitenmoränenwall</skos:prefLabel>
+	<skos:definition xml:lang="en">A ridge or hill parallel to the ice-flow direction that is made up of material from a lateral moraine (BWG 2003).</skos:definition>
+	<dcterms:references rdf:resource="https://resource.geosphere.at/thes/citation/22"/>
+	<rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+	<skos:definition xml:lang="de">Aus Seitenmoränenmaterial bestehender Rücken/Wall, der parallel zum Eisstrom ausgerichtet ist (BWG 2003).</skos:definition>
+	<dcterms:created rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2011-06-06T14:30:11.000Z</dcterms:created>
+	<dcterms:hasVersion rdf:datatype="http://www.w3.org/2001/XMLSchema#int">7</dcterms:hasVersion>
+	<skos:prefLabel xml:lang="en">Lateral moraine ridge</skos:prefLabel>
+</rdf:Description>
+
+<rdf:Description rdf:about="https://resource.geosphere.at/thes/geomorph/312">
+	<skos:prefLabel xml:lang="de">Grundmoränenwall</skos:prefLabel>
+	<skos:definition xml:lang="en">A ridge or hill made up of basal till (Neuendorf et al., 2005).</skos:definition>
+	<dcterms:created rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2011-06-06T14:30:11.000Z</dcterms:created>
+	<rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+	<dcterms:references rdf:resource="https://resource.geosphere.at/thes/citation/545"/>
+	<skos:prefLabel xml:lang="en">Ground moraine ridge</skos:prefLabel>
+	<dcterms:hasVersion rdf:datatype="http://www.w3.org/2001/XMLSchema#int">8</dcterms:hasVersion>
+	<skos:definition xml:lang="de">Aus Grundmoränenmaterial bestehender Rücken/Wall (Neuendorf et al., 2005).</skos:definition>
+</rdf:Description>
+
+<rdf:Description rdf:about="https://resource.geosphere.at/thes/geomorph/313">
+	<skos:prefLabel xml:lang="de">Endmoränenwall</skos:prefLabel>
+	<dcterms:created rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2011-06-06T14:30:11.000Z</dcterms:created>
+	<skos:prefLabel xml:lang="en">Terminal moraine ridge</skos:prefLabel>
+	<skos:definition xml:lang="en">A ridge or hill consisting of material from a terminal moraine, marking the end of a glacial lobe or tongue (Neuendorf et al., 2005).</skos:definition>
+	<dcterms:hasVersion rdf:datatype="http://www.w3.org/2001/XMLSchema#int">7</dcterms:hasVersion>
+	<skos:altLabel xml:lang="en">End moraine ridge</skos:altLabel>
+	<skos:definition xml:lang="de">Aus Endmoränenmaterial bestehender Rücken/Wall, der das Ende eines Eisstroms bzw. einer Gletscherzunge nachzeichnet (Neuendorf et al., 2005).</skos:definition>
+	<dcterms:references rdf:resource="https://resource.geosphere.at/thes/citation/545"/>
+	<rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="https://resource.geosphere.at/thes/geomorph/288">
+	<skos:related rdf:resource="https://resource.geosphere.at/thes/geomorph/264"/>
+	<skos:definition xml:lang="en">A terrace-like ridge consisting of stratified sand and gravel, formed between a melting glacier or stagnant ice lobe and a higher valley wall or lateral moraine (Neuendorf et al., 2005).</skos:definition>
+	<rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+	<dcterms:references rdf:resource="https://resource.geosphere.at/thes/citation/272"/>
+	<dcterms:created rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2011-06-06T14:30:11.000Z</dcterms:created>
+	<dcterms:hasVersion rdf:datatype="http://www.w3.org/2001/XMLSchema#int">12</dcterms:hasVersion>
+	<skos:altLabel xml:lang="en">Ice-marginal terrace</skos:altLabel>
+	<skos:prefLabel xml:lang="en">Kames terrace</skos:prefLabel>
+	<skos:altLabel xml:lang="de">Kamesterrasse</skos:altLabel>
+	<skos:altLabel xml:lang="de">Staukörper am Eisrand</skos:altLabel>
+	<skos:prefLabel xml:lang="de">Eisrandterrasse</skos:prefLabel>
+	<skos:related rdf:resource="https://resource.geosphere.at/thes/geomorph/331"/>
+	<skos:related rdf:resource="https://resource.geosphere.at/thes/geomorph/329"/>
+	<skos:related rdf:resource="https://resource.geosphere.at/thes/geomorph/328"/>
+	<skos:definition xml:lang="de">Terrassenförmiger Rücken von geschichtetem Sand und Kies, der zwischen einem abschmelzenden oder stagnierenden Gletscher und einer höheren Talflanke oder Seitenmoräne gebildet wurde (Neuendorf et al., 2005).</skos:definition>
+</rdf:Description>
+
+<rdf:Description rdf:about="https://resource.geosphere.at/thes/geomorph/117">
+	<dcterms:created rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2012-01-10T13:19:35.000Z</dcterms:created>
+	<rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+	<dcterms:hasVersion rdf:datatype="http://www.w3.org/2001/XMLSchema#int">12</dcterms:hasVersion>
+	<skos:definition xml:lang="en">A series of long, commonly straight and parallel, furrows inscribed on a bedrock surface by glacial erosion. Usually oriented parallel to the direction of ice movement (modified from Neuendorf et al., 2005).</skos:definition>
+	<dcterms:references rdf:resource="https://resource.geosphere.at/thes/citation/545"/>
+	<skos:prefLabel xml:lang="en">Glacial striations</skos:prefLabel>
+	<skos:definition xml:lang="de">Serie von langen, typischerweise geraden und parallelen Rillen oder Furchen, die durch glaziale Erosion auf Festgesteinsoberflächen entstehen und normalerweise parallel zur Eisbewegung orientiert sind (verändert nach Neuendorf et al., 2005).</skos:definition>
+	<skos:prefLabel xml:lang="de">Gletscherschliff</skos:prefLabel>
+	<dcterms:references rdf:resource="https://resource.geosphere.at/thes/citation/1302"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="https://resource.geosphere.at/thes/geomorph/316">
+	<skos:definition xml:lang="en">A geological feature formed by a mass movement (Neuendorf et al., 2005).</skos:definition>
+	<skos:definition xml:lang="de">Geologische Form, die durch gravitativen Transport (hangabwärts) entsteht (Neuendorf et al., 2005).</skos:definition>
+	<dcterms:hasVersion rdf:datatype="http://www.w3.org/2001/XMLSchema#int">14</dcterms:hasVersion>
+	<skos:narrower rdf:resource="https://resource.geosphere.at/thes/geomorph/377"/>
+	<rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+	<skos:narrower rdf:resource="https://resource.geosphere.at/thes/geomorph/318"/>
+	<skos:narrower rdf:resource="https://resource.geosphere.at/thes/geomorph/319"/>
+	<skos:scopeNote xml:lang="de">In Karten der GBA verwendet, wenn es sich bei der nicht um einen klar abgrenzbaren Sedimentationskörper im Sinne einer lithogenetischen Einheit handelt. </skos:scopeNote>
+	<skos:narrower rdf:resource="https://resource.geosphere.at/thes/geomorph/317"/>
+	<skos:narrower rdf:resource="https://resource.geosphere.at/thes/geomorph/321"/>
+	<dcterms:created rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2011-06-06T14:30:11.000Z</dcterms:created>
+	<dcterms:references rdf:resource="https://resource.geosphere.at/thes/citation/545"/>
+	<colourHexCode xmlns="http://dbpedia.org/ontology/">#FFFFFF</colourHexCode>
+	<skos:prefLabel xml:lang="de">Gravitative Form</skos:prefLabel>
+	<skos:prefLabel xml:lang="en">Gravitative feature</skos:prefLabel>
+	<skos:narrower rdf:resource="https://resource.geosphere.at/thes/geomorph/375"/>
+	<skos:narrower rdf:resource="https://resource.geosphere.at/thes/geomorph/118"/>
+	<skos:narrower rdf:resource="https://resource.geosphere.at/thes/geomorph/363"/>
+	<skos:narrower rdf:resource="https://resource.geosphere.at/thes/geomorph/365"/>
+	<skos:narrower rdf:resource="https://resource.geosphere.at/thes/geomorph/366"/>
+	<skos:narrower rdf:resource="https://resource.geosphere.at/thes/geomorph/367"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="https://resource.geosphere.at/thes/geomorph/118">
+	<dcterms:created rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2012-01-10T13:40:38.000Z</dcterms:created>
+	<rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+	<dcterms:hasVersion rdf:datatype="http://www.w3.org/2001/XMLSchema#int">17</dcterms:hasVersion>
+	<colourHexCode xmlns="http://dbpedia.org/ontology/">#FFFFFF</colourHexCode>
+	<skos:prefLabel xml:lang="de">Tiefgreifend aufgelockerter Fels</skos:prefLabel>
+	<skos:prefLabel xml:lang="en">Deep-seated loosened rock</skos:prefLabel>
+	<skos:definition xml:lang="de">Großflächige, gravitativ bedingte Aufweitung des Trennflächengefüges im Festgestein. Der Fels befindet sich noch (weitgehend) im Verband und eine Dislozierung ist kaum oder nicht erkennbar (subanstehend). (Steinbichler et al., 2019)</skos:definition>
+	<skos:definition xml:lang="en">A term that describes non-dispersed to slightly dispersed rock layers, with loosening due to gravitational processes. (Steinbichler et al., 2019)</skos:definition>
+	<dcterms:references rdf:resource="https://resource.geosphere.at/thes/citation/1302"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="https://resource.geosphere.at/thes/geomorph/317">
+	<dcterms:hasVersion rdf:datatype="http://www.w3.org/2001/XMLSchema#int">7</dcterms:hasVersion>
+	<skos:prefLabel xml:lang="de">Abrisskante</skos:prefLabel>
+	<skos:altLabel xml:lang="en">Scarplet</skos:altLabel>
+	<skos:definition xml:lang="en">A morphological concave edge that terminates the scarp niche of a mass movement (Martin &amp; Eiblmaier, 2003).</skos:definition>
+	<skos:definition xml:lang="de">Morphologische, meist konkave Kante, die das Abrissgewölbe einer gravitativen Massenbewegung abschließt (Martin &amp; Eiblmaier, 2003).</skos:definition>
+	<dcterms:references rdf:resource="https://resource.geosphere.at/thes/citation/483"/>
+	<skos:prefLabel xml:lang="en">Scarp</skos:prefLabel>
+	<rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+	<skos:related rdf:resource="https://resource.geosphere.at/thes/geomorph/331"/>
+	<dcterms:created rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2011-06-06T14:30:11.000Z</dcterms:created>
+</rdf:Description>
+
+<rdf:Description rdf:about="https://resource.geosphere.at/thes/geomorph/318">
+	<dcterms:references rdf:resource="https://resource.geosphere.at/thes/citation/483"/>
+	<skos:prefLabel xml:lang="en">Scarp niche</skos:prefLabel>
+	<skos:definition xml:lang="en">A hollow pattern of varying size that formed due to a mass movement. Consists of a flat sliding plane and an often overhanging scarp. (Martin &amp; Eiblmaier, 2003)</skos:definition>
+	<skos:altLabel xml:lang="de">Abrissgebiet</skos:altLabel>
+	<rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+	<skos:related rdf:resource="https://resource.geosphere.at/thes/geomorph/319"/>
+	<dcterms:hasVersion rdf:datatype="http://www.w3.org/2001/XMLSchema#int">11</dcterms:hasVersion>
+	<skos:prefLabel xml:lang="de">Abrissnische</skos:prefLabel>
+	<skos:definition xml:lang="de">Hohlform unterschiedlicher Größe als Folge einer gravitativen Massenbewegung. Setzt sich aus einer flachen Abrissfläche und einem oft überhängenden Abrissgewölbe zusammen (Martin &amp; Eiblmaier, 2003).</skos:definition>
+	<dcterms:created rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2011-06-06T14:30:11.000Z</dcterms:created>
+</rdf:Description>
+
+<rdf:Description rdf:about="https://resource.geosphere.at/thes/geomorph/319">
+	<skos:related rdf:resource="https://resource.geosphere.at/thes/geomorph/318"/>
+	<skos:narrower rdf:resource="https://resource.geosphere.at/thes/geomorph/320"/>
+	<skos:prefLabel xml:lang="de">Zerrspalte</skos:prefLabel>
+	<dcterms:hasVersion rdf:datatype="http://www.w3.org/2001/XMLSchema#int">8</dcterms:hasVersion>
+	<rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+	<skos:altLabel xml:lang="de">Zerrgraben</skos:altLabel>
+	<skos:related rdf:resource="https://resource.geosphere.at/thes/geomorph/377"/>
+	<dcterms:created rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2011-06-06T14:30:11.000Z</dcterms:created>
+	<skos:definition xml:lang="de">Gravitativ bedingte Extensionsstruktur. Die Ausbildung erfolgt unter Verwendung geeigneter prä-existenter Trennflächen. (Steinbichler et al., 2019)</skos:definition>
+	<skos:definition xml:lang="en">Extensional structure due to gravitational processes, using pre-existing planar fabric to develop. (Steinbichler et al., 2019)
+</skos:definition>
+	<skos:prefLabel xml:lang="en">Tension crack</skos:prefLabel>
+	<skos:altLabel xml:lang="en">Extension gash</skos:altLabel>
+	<dcterms:references rdf:resource="https://resource.geosphere.at/thes/citation/1302"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="https://resource.geosphere.at/thes/geomorph/320">
+	<skos:prefLabel xml:lang="en">Double ridge</skos:prefLabel>
+	<rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+	<dcterms:hasVersion rdf:datatype="http://www.w3.org/2001/XMLSchema#int">6</dcterms:hasVersion>
+	<skos:prefLabel xml:lang="de">Doppelgrat</skos:prefLabel>
+	<skos:definition xml:lang="de">Durch den Prozess der Bergzerreißung entstandener doppelter Berggrat (Martin &amp; Eiblmaier, 2003).</skos:definition>
+	<skos:definition xml:lang="en">A double (mountain) ridge formed by a large mass movement (Martin &amp; Eiblmaier, 2003).</skos:definition>
+	<dcterms:references rdf:resource="https://resource.geosphere.at/thes/citation/483"/>
+	<dcterms:created rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2011-06-06T14:30:11.000Z</dcterms:created>
+</rdf:Description>
+
+<rdf:Description rdf:about="https://resource.geosphere.at/thes/geomorph/363">
+	<dcterms:created rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2011-06-06T14:30:11.000Z</dcterms:created>
+	<skos:related rdf:resource="https://resource.geosphere.at/thes/geomorph/365"/>
+	<dcterms:references rdf:resource="https://resource.geosphere.at/thes/citation/480"/>
+	<skos:definition xml:lang="de">Hang, der aufgrund seiner Beschaffenheit zu Rutschungen neigt (Loat &amp; Meier, 2003).</skos:definition>
+	<skos:altLabel xml:lang="en">Sliding slope</skos:altLabel>
+	<skos:prefLabel xml:lang="de">Rutschhang</skos:prefLabel>
+	<skos:definition xml:lang="en">A slope with the potential to slide (Loat &amp; Meier, 2003).</skos:definition>
+	<skos:prefLabel xml:lang="en">Unstable slope</skos:prefLabel>
+	<dcterms:hasVersion rdf:datatype="http://www.w3.org/2001/XMLSchema#int">9</dcterms:hasVersion>
+	<rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+	<skos:altLabel xml:lang="de">Bereich einer Gleitung</skos:altLabel>
+</rdf:Description>
+
+<rdf:Description rdf:about="https://resource.geosphere.at/thes/geomorph/375">
+	<skos:definition xml:lang="de">Einbruch an der Erdoberfläche als Folge von Hohlraumbildungen im Untergrund, die überwiegend durch Lösungsvorgänge im Wasser entstanden (Martin &amp; Eiblmaier, 2003).</skos:definition>
+	<dcterms:created rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2011-06-06T14:30:11.000Z</dcterms:created>
+	<dcterms:hasVersion rdf:datatype="http://www.w3.org/2001/XMLSchema#int">14</dcterms:hasVersion>
+	<dcterms:references rdf:resource="https://resource.geosphere.at/thes/citation/483"/>
+	<skos:prefLabel xml:lang="de">Erdfall</skos:prefLabel>
+	<skos:definition xml:lang="en">A depression in the earth's surface formed by the collapse of a subsurface cavity, mainly as a result of dissolution by water (Martin &amp; Eiblmaier, 2003).</skos:definition>
+	<skos:related rdf:resource="https://resource.geosphere.at/thes/geomorph/299"/>
+	<skos:related rdf:resource="https://resource.geosphere.at/thes/geomorph/297"/>
+	<rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+	<skos:prefLabel xml:lang="en">Sinkhole</skos:prefLabel>
+</rdf:Description>
+
+<rdf:Description rdf:about="https://resource.geosphere.at/thes/geomorph/321">
+	<skos:narrower rdf:resource="https://resource.geosphere.at/thes/geomorph/322"/>
+	<skos:narrower rdf:resource="https://resource.geosphere.at/thes/geomorph/323"/>
+	<dcterms:hasVersion rdf:datatype="http://www.w3.org/2001/XMLSchema#int">9</dcterms:hasVersion>
+	<rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+	<skos:prefLabel xml:lang="en">Mass movement ridge</skos:prefLabel>
+	<skos:prefLabel xml:lang="de">Massenbewegungswall</skos:prefLabel>
+	<dcterms:created rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2011-06-06T14:30:11.000Z</dcterms:created>
+	<skos:definition xml:lang="de">Wallform, die durch eine gravitative Massenbewegung erzeugt wurde. (Steinbichler et al., 2019)</skos:definition>
+	<skos:definition xml:lang="en">Ridge formed by a mass movement. (Steinbichler et al., 2019)</skos:definition>
+	<dcterms:references rdf:resource="https://resource.geosphere.at/thes/citation/1302"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="https://resource.geosphere.at/thes/geomorph/322">
+	<skos:prefLabel xml:lang="de">Bergsturzwall</skos:prefLabel>
+	<rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+	<skos:definition xml:lang="en">A ridge formed by a rock avalanche.</skos:definition>
+	<skos:definition xml:lang="de">Wallform eines Bergsturzes.</skos:definition>
+	<dcterms:hasVersion rdf:datatype="http://www.w3.org/2001/XMLSchema#int">8</dcterms:hasVersion>
+	<dcterms:created rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2011-06-06T14:30:11.000Z</dcterms:created>
+	<skos:prefLabel xml:lang="en">Rock avalanche ridge</skos:prefLabel>
+	<status xmlns="https://resource.geosphere.at/schema/thes#" rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">3</status>
+</rdf:Description>
+
+<rdf:Description rdf:about="https://resource.geosphere.at/thes/geomorph/323">
+	<dcterms:hasVersion rdf:datatype="http://www.w3.org/2001/XMLSchema#int">10</dcterms:hasVersion>
+	<rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+	<dcterms:created rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2011-06-06T14:30:11.000Z</dcterms:created>
+	<skos:definition xml:lang="de">Wallform, die durch Komponenten in Blockgröße aufgebaut ist, wobei der Entstehungsprozess nicht näher beschrieben ist.</skos:definition>
+	<skos:prefLabel xml:lang="en">Block ridge</skos:prefLabel>
+	<skos:definition xml:lang="en">A ridge of unknown origin, characterised by block-sized components.</skos:definition>
+	<skos:prefLabel xml:lang="de">Blockwall</skos:prefLabel>
+	<status xmlns="https://resource.geosphere.at/schema/thes#" rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">3</status>
+</rdf:Description>
+
+<rdf:Description rdf:about="https://resource.geosphere.at/thes/geomorph/365">
+	<dcterms:created rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2011-06-06T14:30:11.000Z</dcterms:created>
+	<skos:definition xml:lang="de">Hang, der aufgrund seiner Beschaffenheit zu Bodenkriechen neigt (Loat &amp; Meier, 2003).</skos:definition>
+	<skos:related rdf:resource="https://resource.geosphere.at/thes/geomorph/363"/>
+	<skos:definition xml:lang="en">A slope with the potential to creep (Loat &amp; Meier, 2003).</skos:definition>
+	<rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+	<dcterms:references rdf:resource="https://resource.geosphere.at/thes/citation/480"/>
+	<skos:prefLabel xml:lang="en">Creeping slope</skos:prefLabel>
+	<skos:prefLabel xml:lang="de">Kriechhang</skos:prefLabel>
+	<skos:closeMatch rdf:resource="http://dbpedia.org/resource/Downhill_creep"/>
+	<dcterms:hasVersion rdf:datatype="http://www.w3.org/2001/XMLSchema#int">8</dcterms:hasVersion>
+	<skos:altLabel xml:lang="de">Bereich eines langsamen Fließens</skos:altLabel>
+</rdf:Description>
+
+<rdf:Description rdf:about="https://resource.geosphere.at/thes/geomorph/377">
+	<dcterms:created rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2011-06-07T13:23:40.000Z</dcterms:created>
+	<skos:prefLabel xml:lang="en">Sagging slope</skos:prefLabel>
+	<skos:definition xml:lang="de">Vorgewölbter Hangfuß im Bereich einer gravitativen Massenbewegung, die oft mit einer Bergzerreißung im oberen Teil der Massenbewegung einhergeht (verändert nach Murawski &amp; Meyer, 1998).</skos:definition>
+	<skos:related rdf:resource="https://resource.geosphere.at/thes/geomorph/319"/>
+	<rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+	<dcterms:references rdf:resource="https://resource.geosphere.at/thes/citation/486"/>
+	<dcterms:hasVersion rdf:datatype="http://www.w3.org/2001/XMLSchema#int">19</dcterms:hasVersion>
+	<skos:prefLabel xml:lang="de">Talzuschub</skos:prefLabel>
+	<skos:definition xml:lang="en">A prograding or bulging foot of a slope in the vicinity of a landslide, often accompanied by extension gashes in the upper section of the landslide (modified from Murawski &amp; Meyer, 1998).</skos:definition>
+</rdf:Description>
+
+<rdf:Description rdf:about="https://resource.geosphere.at/thes/geomorph/366">
+	<dcterms:hasVersion rdf:datatype="http://www.w3.org/2001/XMLSchema#int">6</dcterms:hasVersion>
+	<dcterms:references rdf:resource="https://resource.geosphere.at/thes/citation/844"/>
+	<skos:prefLabel xml:lang="en">Block spread</skos:prefLabel>
+	<rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+	<skos:prefLabel xml:lang="de">Zerglittene Masse</skos:prefLabel>
+	<skos:definition xml:lang="de">Eine dicke Lage von Festgestein überlagert weichere Materialien. Die kompetente Lage kann zerbrochen und in einzelne Streifen/Blöcke zerlegt sein. Die weichere Unterlage kann zwischen den Blöcken heraufgedrückt sein. Die Hohlräume zwischen den Blöcken können auch mit zerbrochenem Material gefüllt sein (Turner &amp; Schuster, 1996).</skos:definition>
+	<skos:definition xml:lang="en">A block spread involves a thick layer of rock overlying softer materials, in which the strong upper layer fractures and separates into sections. The soft underlying material is squeezed into the cracks between the sections and the cracks may be filled with broken, displaced material (Turner &amp; Schuster, 1996).</skos:definition>
+	<dcterms:created rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2011-06-06T14:30:11.000Z</dcterms:created>
+	<skos:altLabel xml:lang="de">Aufgelockerter Bereich durch Driften</skos:altLabel>
+</rdf:Description>
+
+<rdf:Description rdf:about="https://resource.geosphere.at/thes/geomorph/367">
+	<dcterms:references rdf:resource="https://resource.geosphere.at/thes/citation/799"/>
+	<skos:prefLabel xml:lang="en">Sagging</skos:prefLabel>
+	<dcterms:hasVersion rdf:datatype="http://www.w3.org/2001/XMLSchema#int">5</dcterms:hasVersion>
+	<skos:definition xml:lang="en">Block glides are slides in which material remains largely undeformed as it moves over a planar slide plane (Selby, 1993).</skos:definition>
+	<skos:definition xml:lang="de">Rutschung, bei der das abgerutschte Material überwiegend undeformiert bleibt, während es über ein planare Gleitfläche bewegt wird (Selby, 1993).</skos:definition>
+	<rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+	<skos:altLabel xml:lang="de">Setzung</skos:altLabel>
+	<dcterms:created rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2011-06-06T14:30:11.000Z</dcterms:created>
+	<skos:prefLabel xml:lang="de">Sackung</skos:prefLabel>
+	<skos:altLabel xml:lang="en">Bereich einer Sackung</skos:altLabel>
+</rdf:Description>
+
+<rdf:Description rdf:about="https://resource.geosphere.at/thes/geomorph/327">
+	<dcterms:created rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2011-06-06T14:30:11.000Z</dcterms:created>
+	<skos:prefLabel xml:lang="de">Erosionsform</skos:prefLabel>
+	<skos:definition xml:lang="de">Geologische Form, die durch einen erosiven Prozess entstanden ist, ausgelöst durch ein nicht näher spezifiziertes Agens (Neuendorf et al., 2005).</skos:definition>
+	<dcterms:hasVersion rdf:datatype="http://www.w3.org/2001/XMLSchema#int">15</dcterms:hasVersion>
+	<skos:prefLabel xml:lang="en">Erosional feature</skos:prefLabel>
+	<skos:narrower rdf:resource="https://resource.geosphere.at/thes/geomorph/328"/>
+	<skos:narrower rdf:resource="https://resource.geosphere.at/thes/geomorph/330"/>
+	<skos:definition xml:lang="en">Any geological feature that has been formed by any erosive agent (Neuendorf et al., 2005).</skos:definition>
+	<dcterms:references rdf:resource="https://resource.geosphere.at/thes/citation/545"/>
+	<rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+	<colourHexCode xmlns="http://dbpedia.org/ontology/">#FFFFFF</colourHexCode>
+	<skos:narrower rdf:resource="https://resource.geosphere.at/thes/geomorph/302"/>
+	<skos:narrower rdf:resource="https://resource.geosphere.at/thes/geomorph/304"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="https://resource.geosphere.at/thes/geomorph/328">
+	<skos:related rdf:resource="https://resource.geosphere.at/thes/geomorph/264"/>
+	<skos:related rdf:resource="https://resource.geosphere.at/thes/geomorph/288"/>
+	<dcterms:created rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2011-06-06T14:30:11.000Z</dcterms:created>
+	<skos:definition xml:lang="de">In anstehendes Festgestein oder Lockergestein eingeschnittene Talterrasse (Murawski &amp; Meyer, 1998).</skos:definition>
+	<skos:definition xml:lang="en">A terrace cut into consolidated or unconsolidated rocks (Murawski &amp; Meyer, 1998).</skos:definition>
+	<skos:prefLabel xml:lang="en">Erosion terrace</skos:prefLabel>
+	<skos:related rdf:resource="https://resource.geosphere.at/thes/geomorph/331"/>
+	<skos:prefLabel xml:lang="de">Erosionsterrasse</skos:prefLabel>
+	<dcterms:references rdf:resource="https://resource.geosphere.at/thes/citation/486"/>
+	<rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+	<skos:narrower rdf:resource="https://resource.geosphere.at/thes/geomorph/329"/>
+	<dcterms:hasVersion rdf:datatype="http://www.w3.org/2001/XMLSchema#int">9</dcterms:hasVersion>
+</rdf:Description>
+
+<rdf:Description rdf:about="https://resource.geosphere.at/thes/geomorph/329">
+	<skos:definition xml:lang="en">A terrace remnant (formed in bedrock) of a broad, flat, valley floor, which now stands above the present drainage as a result of down-cutting due to base-level change (Neuendorf et al., 2005).</skos:definition>
+	<skos:prefLabel xml:lang="en">Strath terrace</skos:prefLabel>
+	<dcterms:hasVersion rdf:datatype="http://www.w3.org/2001/XMLSchema#int">7</dcterms:hasVersion>
+	<skos:prefLabel xml:lang="de">Felsterrasse</skos:prefLabel>
+	<skos:related rdf:resource="https://resource.geosphere.at/thes/geomorph/264"/>
+	<skos:related rdf:resource="https://resource.geosphere.at/thes/geomorph/288"/>
+	<rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+	<skos:related rdf:resource="https://resource.geosphere.at/thes/geomorph/331"/>
+	<dcterms:references rdf:resource="https://resource.geosphere.at/thes/citation/545"/>
+	<skos:definition xml:lang="de">Rest einer Terrasse, die einen ehemaligen, breiten, flachen Talboden gebildet hat, der heute über dem Abfluss liegt und als Ergebnis des Einschnitts des Flusses aufgrund einer Änderung des Erosionsniveaus gebildet wurde (Neuendorf et al., 2005).</skos:definition>
+	<dcterms:created rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2011-06-06T14:30:11.000Z</dcterms:created>
+	<colourHexCode xmlns="http://dbpedia.org/ontology/">#FFFFFF</colourHexCode>
+</rdf:Description>
+
+<rdf:Description rdf:about="https://resource.geosphere.at/thes/geomorph/330">
+	<dcterms:hasVersion rdf:datatype="http://www.w3.org/2001/XMLSchema#int">9</dcterms:hasVersion>
+	<skos:definition xml:lang="de">Relativ scharfe Hangkante oder Kamm eines Rückens, der durch Erosion gebildet wurde (Neuendorf et al., 2005).</skos:definition>
+	<skos:prefLabel xml:lang="en">Erosional edge</skos:prefLabel>
+	<skos:definition xml:lang="en">A relatively sharply pointed slope edge or the crest of a ridge formed by erosion (Neuendorf et al., 2005).</skos:definition>
+	<rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+	<dcterms:references rdf:resource="https://resource.geosphere.at/thes/citation/545"/>
+	<skos:narrower rdf:resource="https://resource.geosphere.at/thes/geomorph/331"/>
+	<dcterms:created rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2011-06-06T14:30:11.000Z</dcterms:created>
+	<skos:prefLabel xml:lang="de">Erosionskante</skos:prefLabel>
+</rdf:Description>
+
+<rdf:Description rdf:about="https://resource.geosphere.at/thes/geomorph/331">
+	<skos:definition xml:lang="de">Terrassenkanten treten meist an fluviatilen Terrassen auf, können aber auch an Erosionsterrassen vorkommen. Bilden die erosive Kante bzw. den Abschluss der Terrassenoberfläche (BWG 2003).</skos:definition>
+	<dcterms:hasVersion rdf:datatype="http://www.w3.org/2001/XMLSchema#int">9</dcterms:hasVersion>
+	<skos:prefLabel xml:lang="de">Terrassenkante</skos:prefLabel>
+	<skos:related rdf:resource="https://resource.geosphere.at/thes/geomorph/264"/>
+	<skos:related rdf:resource="https://resource.geosphere.at/thes/geomorph/288"/>
+	<skos:definition xml:lang="en">The erosive edge or termination of a terrace surface. Terrace edges often occur on fluvial terraces but can also occur on erosional terraces (BWG 2003).</skos:definition>
+	<skos:prefLabel xml:lang="en">Terrace edge</skos:prefLabel>
+	<skos:related rdf:resource="https://resource.geosphere.at/thes/geomorph/317"/>
+	<skos:related rdf:resource="https://resource.geosphere.at/thes/geomorph/329"/>
+	<skos:related rdf:resource="https://resource.geosphere.at/thes/geomorph/328"/>
+	<rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+	<dcterms:created rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2011-06-06T14:30:11.000Z</dcterms:created>
+	<dcterms:references rdf:resource="https://resource.geosphere.at/thes/citation/22"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="https://resource.geosphere.at/thes/geomorph/302">
+	<dcterms:created rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2011-06-06T14:30:11.000Z</dcterms:created>
+	<skos:definition xml:lang="en">A hollow in the bed or banks of a stream, caused by the erosive action of rapidly circulating water (Loat &amp; Meier, 2003).</skos:definition>
+	<dcterms:references rdf:resource="https://resource.geosphere.at/thes/citation/480"/>
+	<skos:prefLabel xml:lang="en">Scour</skos:prefLabel>
+	<skos:prefLabel xml:lang="de">Kolk</skos:prefLabel>
+	<skos:definition xml:lang="de">Örtlich begrenzte, durch Strömungsvorgänge verursachte Vertiefung im Gewässerbett (Loat &amp; Meier, 2003).</skos:definition>
+	<dcterms:hasVersion rdf:datatype="http://www.w3.org/2001/XMLSchema#int">6</dcterms:hasVersion>
+	<rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="https://resource.geosphere.at/thes/geomorph/304">
+	<skos:prefLabel xml:lang="en">Peneplain</skos:prefLabel>
+	<skos:altLabel xml:lang="de">Peneplain</skos:altLabel>
+	<skos:prefLabel xml:lang="de">Verebnungsfläche</skos:prefLabel>
+	<dcterms:references rdf:resource="https://resource.geosphere.at/thes/citation/486"/>
+	<rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+	<dcterms:hasVersion rdf:datatype="http://www.w3.org/2001/XMLSchema#int">9</dcterms:hasVersion>
+	<dcterms:created rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2011-06-06T14:30:11.000Z</dcterms:created>
+	<dcterms:references rdf:resource="https://resource.geosphere.at/thes/citation/545"/>
+	<colourHexCode xmlns="http://dbpedia.org/ontology/">#FFFFFF</colourHexCode>
+	<skos:definition xml:lang="de">Durch subaerische Verwitterung und fluviatile Abtragung in Zeiten tektonischer Ruhe bis zur Abschwächung jeglichen Landschaftsreliefs (bis zum base-level) entwickelte Ebene (Steinbichler et al., 2019; Neuendorf et al., 2005; Murawski &amp; Meyer, 1998).</skos:definition>
+	<skos:definition xml:lang="en">A relatively flat or gently undulating surface that formed by subaerial erosion and fluvial transport during quiet tectonic phases. (Steinbichler et al., 2019; Neuendorf et al., 2005; Murawski &amp; Meyer, 1998).</skos:definition>
+	<dcterms:references rdf:resource="https://resource.geosphere.at/thes/citation/1302"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="https://resource.geosphere.at/thes/geomorph/296">
+	<dcterms:created rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2011-06-06T14:30:11.000Z</dcterms:created>
+	<skos:prefLabel xml:lang="de">Karstform</skos:prefLabel>
+	<dcterms:references rdf:resource="https://resource.geosphere.at/thes/citation/545"/>
+	<skos:prefLabel xml:lang="en">Karst feature</skos:prefLabel>
+	<rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+	<skos:definition xml:lang="en">A geologic feature formed directly or indirectly by solution (including caves) (Neuendorf et al., 2005).</skos:definition>
+	<skos:definition xml:lang="de">Geologische Form, die direkt oder indirekt durch Lösung entsteht; der Begriff beinhaltet auch Höhlen (Neuendorf et al., 2005).</skos:definition>
+	<skos:narrower rdf:resource="https://resource.geosphere.at/thes/geomorph/297"/>
+	<skos:narrower rdf:resource="https://resource.geosphere.at/thes/geomorph/299"/>
+	<skos:closeMatch rdf:resource="http://dbpedia.org/resource/Karst"/>
+	<skos:narrower rdf:resource="https://resource.geosphere.at/thes/geomorph/375"/>
+	<dcterms:hasVersion rdf:datatype="http://www.w3.org/2001/XMLSchema#int">11</dcterms:hasVersion>
+	<skos:narrower rdf:resource="https://resource.geosphere.at/thes/geomorph/978"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="https://resource.geosphere.at/thes/geomorph/978">
+	<rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+	<skos:definition xml:lang="de">Karstähnliche Landschaftsmorphologie in Periglazialgebieten durch oberflächlich auftauende Dauerfrostböden. (übersetzt nach Neuendorf et al., 2005)</skos:definition>
+	<skos:definition xml:lang="en">Karstlike topographic features produced in a permafrost region by the local melting of ground ice and the subsequent settling of the ground. (translated from Neuendorf et al., 2005)</skos:definition>
+	<skos:notation>6847</skos:notation>
+	<skos:prefLabel xml:lang="de">Thermokarst</skos:prefLabel>
+	<skos:prefLabel xml:lang="en">Thermokarst</skos:prefLabel>
+	<dcterms:created rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2017-02-23T07:27:15.000Z</dcterms:created>
+	<dcterms:references rdf:resource="https://resource.geosphere.at/thes/citation/545"/>
+	<skos:altLabel xml:lang="de">Kryokarst</skos:altLabel>
+</rdf:Description>
+
+<rdf:Description rdf:about="https://resource.geosphere.at/thes/geomorph/297">
+	<skos:definition xml:lang="en">A depression with a more or less circular outline, formed by dissolution and/or collapse of a subsurface cavity. The diameter of such depressions can vary from a few meters to several hundred meters (BWG 2003).</skos:definition>
+	<skos:definition xml:lang="de">Durch Lösungsvorgänge und/oder Einsturz des Felsuntergrundes entstandene Senke mit mehr oder weniger kreisförmigem Grundriss. Ihr Durchmesser variiert im Meter- bis Hundertmeterbereich (BWG 2003).</skos:definition>
+	<skos:exactMatch rdf:resource="http://inspire.ec.europa.eu/codelist/NaturalObjectTypeValue/swallowHole"/>
+	<skos:related rdf:resource="https://resource.geosphere.at/thes/geomorph/375"/>
+	<rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+	<skos:altLabel xml:lang="en">Sinkhole</skos:altLabel>
+	<skos:related rdf:resource="https://resource.geosphere.at/thes/geomorph/299"/>
+	<skos:prefLabel xml:lang="de">Doline</skos:prefLabel>
+	<skos:prefLabel xml:lang="en">Doline</skos:prefLabel>
+	<dcterms:hasVersion rdf:datatype="http://www.w3.org/2001/XMLSchema#int">11</dcterms:hasVersion>
+	<dcterms:created rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2011-06-06T14:30:11.000Z</dcterms:created>
+	<dcterms:references rdf:resource="https://resource.geosphere.at/thes/citation/22"/>
+	<skos:hiddenLabel xml:lang="en">Sink</skos:hiddenLabel>
+	<dcterms:references rdf:resource="https://resource.geosphere.at/thes/citation/1302"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="https://resource.geosphere.at/thes/geomorph/299">
+	<dcterms:references rdf:resource="https://resource.geosphere.at/thes/citation/22"/>
+	<skos:prefLabel xml:lang="de">Polje</skos:prefLabel>
+	<skos:prefLabel xml:lang="en">Polje</skos:prefLabel>
+	<skos:related rdf:resource="https://resource.geosphere.at/thes/geomorph/375"/>
+	<dcterms:hasVersion rdf:datatype="http://www.w3.org/2001/XMLSchema#int">12</dcterms:hasVersion>
+	<rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+	<skos:related rdf:resource="https://resource.geosphere.at/thes/geomorph/297"/>
+	<dcterms:created rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2011-06-06T14:30:11.000Z</dcterms:created>
+	<colourHexCode xmlns="http://dbpedia.org/ontology/">#FFFFFF</colourHexCode>
+	<skos:definition xml:lang="de">Große geschlossene Senke mit flacher Sohle und steiler Randböschung auf zumindest einer Seite. Die Polje hat einen internen Karstabfluss und wird periodisch überflutet. (Steinbichler et al., 2019)</skos:definition>
+	<skos:definition xml:lang="en">Large closed depression with steep margins and a flat bottom that is flooded periodically and which has a ‚karst‘ outflow. (Steinbichler et al., 2019)
+</skos:definition>
+	<dcterms:references rdf:resource="https://resource.geosphere.at/thes/citation/1302"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="https://resource.geosphere.at/thes/geomorph/264">
+	<skos:related rdf:resource="https://resource.geosphere.at/thes/geomorph/288"/>
+	<skos:definition xml:lang="en">An accumulation-terrace which is the result of cyclic sedimentation controlled by climatic and/or tectonic events. Fluvial terraces are characterised by alternating fine and coarse deposits with well-developed grading and horizontal bedding. (Hinze et al., 1989)</skos:definition>
+	<rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+	<dcterms:references rdf:resource="https://resource.geosphere.at/thes/citation/272"/>
+	<dcterms:created rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2011-06-06T14:30:11.000Z</dcterms:created>
+	<skos:prefLabel xml:lang="en">Fluvial terrace</skos:prefLabel>
+	<skos:altLabel xml:lang="en">Fluvial accumulation-terrace</skos:altLabel>
+	<dcterms:hasVersion rdf:datatype="http://www.w3.org/2001/XMLSchema#int">9</dcterms:hasVersion>
+	<skos:related rdf:resource="https://resource.geosphere.at/thes/geomorph/331"/>
+	<skos:related rdf:resource="https://resource.geosphere.at/thes/geomorph/328"/>
+	<skos:related rdf:resource="https://resource.geosphere.at/thes/geomorph/329"/>
+	<skos:prefLabel xml:lang="de">Fluviatile Terrasse</skos:prefLabel>
+	<skos:altLabel xml:lang="de">Schotterterrasse</skos:altLabel>
+	<skos:altLabel xml:lang="de">Fluviale Akkumulationsterrasse</skos:altLabel>
+	<skos:definition xml:lang="de">Aufschüttungs- bzw. Akkumulationsterrasse, welche in der Regel das Ergebnis einer zyklischen Sedimentation ist, die durch klimatische und/oder tektonische Ereignisse gesteuert wird. (Hinze et al. 1989).</skos:definition>
+	<skos:altLabel xml:lang="de">Aufschüttungsterrasse</skos:altLabel>
+</rdf:Description>
+
+<rdf:Description rdf:about="https://resource.geosphere.at/thes/geomorph/301">
+	<skos:prefLabel xml:lang="de">Fluviatile Form</skos:prefLabel>
+	<skos:prefLabel xml:lang="en">Fluviatile feature</skos:prefLabel>
+	<dcterms:created rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2011-06-06T14:30:11.000Z</dcterms:created>
+	<dcterms:hasVersion rdf:datatype="http://www.w3.org/2001/XMLSchema#int">10</dcterms:hasVersion>
+	<skos:definition xml:lang="de">Geologische Form, die durch direkten oder indirekten Einfluss von fließenden Gewässern entstanden ist (Neuendorf et al., 2005).</skos:definition>
+	<skos:narrower rdf:resource="https://resource.geosphere.at/thes/geomorph/302"/>
+	<skos:definition xml:lang="en">A geologic feature formed by the action of a stream or river (Neuendorf et al., 2005).</skos:definition>
+	<dcterms:references rdf:resource="https://resource.geosphere.at/thes/citation/545"/>
+	<rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+	<skos:narrower rdf:resource="https://resource.geosphere.at/thes/geomorph/300"/>
+	<dcterms:references rdf:resource="https://resource.geosphere.at/thes/citation/1302"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="https://resource.geosphere.at/thes/geomorph/300">
+	<skos:altLabel xml:lang="de">Ehemaliger Abfluss</skos:altLabel>
+	<dcterms:created rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2011-06-06T14:30:11.000Z</dcterms:created>
+	<rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+	<skos:prefLabel xml:lang="en">Dry valley</skos:prefLabel>
+	<dcterms:references rdf:resource="https://resource.geosphere.at/thes/citation/16"/>
+	<skos:definition xml:lang="en">A linear depression formed by the downward erosion of a stream or river, but that no longer has an active stream bed (Ahnert, 2009).</skos:definition>
+	<skos:prefLabel xml:lang="de">Trockental</skos:prefLabel>
+	<dcterms:hasVersion rdf:datatype="http://www.w3.org/2001/XMLSchema#int">7</dcterms:hasVersion>
+	<skos:definition xml:lang="de">Lineare Hohlform, die ursprünglich durch die Tiefenerosion eines Baches oder Flusses geschaffen wurde, aber heute kein aktives Gerinnebett mehr besitzt (Ahnert, 2009).</skos:definition>
+	<dcterms:references rdf:resource="https://resource.geosphere.at/thes/citation/1302"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="https://resource.geosphere.at/thes/geomorph/324">
+	<skos:prefLabel xml:lang="en">Aeolian feature</skos:prefLabel>
+	<dcterms:created rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2011-06-06T14:30:11.000Z</dcterms:created>
+	<rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+	<dcterms:references rdf:resource="https://resource.geosphere.at/thes/citation/545"/>
+	<skos:narrower rdf:resource="https://resource.geosphere.at/thes/geomorph/326"/>
+	<skos:closeMatch rdf:resource="http://dbpedia.org/resource/Aeolian_processes"/>
+	<dcterms:hasVersion rdf:datatype="http://www.w3.org/2001/XMLSchema#int">9</dcterms:hasVersion>
+	<skos:prefLabel xml:lang="de">Äolische Form</skos:prefLabel>
+	<colourHexCode xmlns="http://dbpedia.org/ontology/">#FFFFFF</colourHexCode>
+	<dcterms:references rdf:resource="https://resource.geosphere.at/thes/citation/1302"/>
+	<skos:definition xml:lang="de">Geologische Form, die durch Einwirkung von Wind gebildet wurde. (Steinbichler et al., 2019; Neuendorf et al., 2005)</skos:definition>
+	<skos:definition xml:lang="en">A geological feature formed by wind. (Steinbichler et al., 2019; Neuendorf et al., 2005)</skos:definition>
+	<skos:narrower rdf:resource="https://resource.geosphere.at/thes/geomorph/325"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="https://resource.geosphere.at/thes/geomorph/325">
+	<dcterms:created rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2011-06-06T14:30:11.000Z</dcterms:created>
+	<skos:prefLabel xml:lang="de">Sanddüne</skos:prefLabel>
+	<skos:definition xml:lang="en">An accumulation of loose sand heaped up by the wind, commonly found where there is an abundance of dry surface sand (Neuendorf et al., 2005).</skos:definition>
+	<skos:definition xml:lang="de">Ansammlung von losem Sand, der durch den Wind aufgehäuft wurde. Findet sich üblicherweise in Gebieten, wo reichlich trockener Sand an der Oberfläche vorkommt (Neuendorf et al., 2005).</skos:definition>
+	<dcterms:hasVersion rdf:datatype="http://www.w3.org/2001/XMLSchema#int">6</dcterms:hasVersion>
+	<skos:prefLabel xml:lang="en">Sanddune</skos:prefLabel>
+	<dcterms:references rdf:resource="https://resource.geosphere.at/thes/citation/545"/>
+	<rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="https://resource.geosphere.at/thes/geomorph/326">
+	<dcterms:created rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2011-06-06T14:30:11.000Z</dcterms:created>
+	<skos:definition xml:lang="en">Any stone or pebble shaped, worn, faceted, cut, or polished by the abrasive action of windblown sand, generally under desert conditions (Neuendorf et al., 2005).</skos:definition>
+	<dcterms:references rdf:resource="https://resource.geosphere.at/thes/citation/545"/>
+	<skos:prefLabel xml:lang="de">Windkanter</skos:prefLabel>
+	<dcterms:hasVersion rdf:datatype="http://www.w3.org/2001/XMLSchema#int">6</dcterms:hasVersion>
+	<skos:definition xml:lang="de">Jeder Stein, der durch die abrasive Kraft von durch Wind transportiertem Sand geformt, zerschlissen, facettiert, geschnitten oder poliert wurde. Entsteht generell unter wüstenartigen Bedingungen (Neuendorf et al., 2005).</skos:definition>
+	<rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+	<skos:prefLabel xml:lang="en">Ventifact</skos:prefLabel>
+	<skos:altLabel xml:lang="en">Windkanter</skos:altLabel>
+</rdf:Description>
+
+<rdf:Description rdf:about="https://resource.geosphere.at/thes/geomorph/116">
+	<skos:altLabel xml:lang="de">Künstliche Geländeform</skos:altLabel>
+	<skos:definition xml:lang="en">A man-made (artificial) geomorphic feature on the earth's surface (modified from BWG 2003).</skos:definition>
+	<dcterms:created rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2012-01-10T13:14:25.000Z</dcterms:created>
+	<dcterms:references rdf:resource="https://resource.geosphere.at/thes/citation/22"/>
+	<skos:prefLabel xml:lang="en">Anthropogenic feature</skos:prefLabel>
+	<rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+	<skos:altLabel xml:lang="en">Artificial feature</skos:altLabel>
+	<skos:definition xml:lang="de">Durch menschliche Tätigkeit (künstlich) erzeugte geomorphologische Form an der Erdoberfläche (verändert nach BWG 2003).</skos:definition>
+	<skos:prefLabel xml:lang="de">Anthropogene Form</skos:prefLabel>
+	<skos:altLabel xml:lang="en">Artificially modified ground</skos:altLabel>
+</rdf:Description>
+
+<rdf:Description rdf:about="https://resource.geosphere.at/thes/geomorph/235">
+	<dcterms:title xml:lang="de">Geomorphologie und Quartäre Phänomene</dcterms:title>
+	<dcterms:title xml:lang="en">Geomorphology and Quaternary Phenomena</dcterms:title>
+</rdf:Description>
+
+<rdf:Description rdf:about="https://resource.geosphere.at/thes/geomorph/295">
+	<skos:prefLabel xml:lang="en">Geomorphologic Feature</skos:prefLabel>
+</rdf:Description>
+
+<rdf:Description rdf:about="https://resource.geosphere.at/thes/geomorph/235">
+	<dcterms:description xml:lang="en">The concept scheme on the topic of geomorphology includes terms on landforms and Quaternary phenomena as used in GeoSphere Austria maps, data and text publications and is based on the Terminology for Geological Mapping of Quaternary and Mass Movements in Austria (Steinbichler et al., 2019). New terms and definitions from this publication were subsequently incorporated.</dcterms:description>
+	<dcterms:description xml:lang="de">Das Konzeptschema zum Thema Geomorphologie umfasst Begriffe zu Landformen und Quartären Phänomenen wie sie in Karten-, Daten-, und Textpublikationen der GeoSphere Austria verwendet wurden und ist angelehnt an die Begriffskataloge für Quartär und Massenbewegungen in Österreich (Steinbichler et al., 2019). Neue Begriffe und Definitionen aus dieser Publikation wurden hier nachträglich eingearbeitet.</dcterms:description>
+</rdf:Description>
+
+<rdf:Description rdf:about="https://resource.geosphere.at/thes/geomorph/969">
+	<skos:definition xml:lang="de">Ein Begriff für geologische Kartendarstellungen, die keinem geologischen oder geomorphologischen Thema zugeordnet werden können, aber dennoch wichtig für das Verständnis von quartären Prozessen sind (nach Steinbichler et al., 2019).</skos:definition>
+	<skos:definition xml:lang="en">A concept necessary for geological map representations that cannot be assigned to a geological or geomorphological theme, but are nevertheless important for understanding Quaternary processes (according to Steinbichler et al., 2019).</skos:definition>
+</rdf:Description>
+
+<rdf:Description rdf:about="https://resource.geosphere.at/thes/geomorph/adms/0.1">
+	<dcterms:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2025-02-24T17:17:08.113Z</dcterms:modified>
+</rdf:Description>
+
+<rdf:Description rdf:about="https://resource.geosphere.at/thes/geomorph/116">
+	<dcterms:hasVersion rdf:datatype="http://www.w3.org/2001/XMLSchema#int">17</dcterms:hasVersion>
+	<skos:altLabel xml:lang="de">Künstlich verändertes Gelände</skos:altLabel>
+	<colourHexCode xmlns="http://dbpedia.org/ontology/">#FFFFFF</colourHexCode>
+	<dcterms:references rdf:resource="https://resource.geosphere.at/thes/citation/1302"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="https://resource.geosphere.at/thes/geomorph/314">
+	<dcterms:created rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2011-06-06T14:30:11.000Z</dcterms:created>
+	<dcterms:references rdf:resource="https://resource.geosphere.at/thes/citation/545"/>
+	<skos:narrower rdf:resource="https://resource.geosphere.at/thes/geomorph/315"/>
+	<skos:closeMatch rdf:resource="http://dbpedia.org/resource/Periglacial"/>
+	<dcterms:hasVersion rdf:datatype="http://www.w3.org/2001/XMLSchema#int">7</dcterms:hasVersion>
+	<rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+	<skos:prefLabel xml:lang="de">Permafrostform</skos:prefLabel>
+	<skos:prefLabel xml:lang="en">Permafrost feature</skos:prefLabel>
+	<skos:definition xml:lang="en">A geological feature formed by the influence of permafrost. (Steinbichler et al., 2019; Neuendorf et al., 2005)</skos:definition>
+	<skos:definition xml:lang="de">Geologische Form, die durch Einfluss von Permafrost entstanden ist. (Steinbichler et al., 2019; Neuendorf et al., 2005)</skos:definition>
+	<dcterms:references rdf:resource="https://resource.geosphere.at/thes/citation/1302"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="https://resource.geosphere.at/thes/geomorph/315">
+	<dcterms:hasVersion rdf:datatype="http://www.w3.org/2001/XMLSchema#int">6</dcterms:hasVersion>
+	<skos:prefLabel xml:lang="de">Blockgletscherwall</skos:prefLabel>
+	<dcterms:created rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2011-06-06T14:30:11.000Z</dcterms:created>
+	<skos:definition xml:lang="en">A ridge or wall of rock glacier deposits, often occurring as one of several parallel, lobate or tongue-shaped, ridges (Neuendorf et al., 2005).</skos:definition>
+	<skos:definition xml:lang="de">Aus Blockgletschermaterial bestehender Rücken/Wall. Kommt meist in Gruppen von mehreren parallelen Wällen vor, wobei individuelle Wälle meist eine lobate bzw. zungenartige Form aufweisen (Neuendorf et al., 2005).</skos:definition>
+	<dcterms:references rdf:resource="https://resource.geosphere.at/thes/citation/545"/>
+	<skos:prefLabel xml:lang="en">Rock glacier ridge</skos:prefLabel>
+	<rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="https://resource.geosphere.at/thes/geomorph/235">
+	<skos:hasTopConcept rdf:resource="https://resource.geosphere.at/thes/geomorph/969"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="https://resource.geosphere.at/thes/geomorph/969">
+	<dcterms:created rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2017-02-22T14:49:11.000Z</dcterms:created>
+	<skos:narrower rdf:resource="https://resource.geosphere.at/thes/geomorph/977"/>
+	<skos:narrower rdf:resource="https://resource.geosphere.at/thes/geomorph/978"/>
+	<skos:narrower rdf:resource="https://resource.geosphere.at/thes/geomorph/975"/>
+	<skos:narrower rdf:resource="https://resource.geosphere.at/thes/geomorph/976"/>
+	<skos:narrower rdf:resource="https://resource.geosphere.at/thes/geomorph/974"/>
+	<skos:narrower rdf:resource="https://resource.geosphere.at/thes/geomorph/970"/>
+	<skos:narrower rdf:resource="https://resource.geosphere.at/thes/geomorph/346"/>
+	<rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+	<colourHexCode xmlns="http://dbpedia.org/ontology/">#FFFFFF</colourHexCode>
+	<skos:topConceptOf rdf:resource="https://resource.geosphere.at/thes/geomorph/235"/>
+	<skos:prefLabel xml:lang="de">Quartäres Phänomen</skos:prefLabel>
+	<skos:prefLabel xml:lang="en">Quaternary Phenomenon</skos:prefLabel>
+</rdf:Description>
+
+<rdf:Description rdf:about="https://resource.geosphere.at/thes/geomorph/976">
+	<rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+	<skos:definition xml:lang="en">A phenomenon formed by gravitational mass wasting, transport and deposition. (modified from Zepp, 2002)</skos:definition>
+	<dcterms:created rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2017-02-23T07:26:59.000Z</dcterms:created>
+	<skos:prefLabel xml:lang="en">Gravitative phenomenon</skos:prefLabel>
+	<skos:prefLabel xml:lang="de">Gravitatives Phänomen</skos:prefLabel>
+	<skos:notation>6811</skos:notation>
+	<skos:definition xml:lang="de">Phänomene, die aufgrund von Abtragungs-, Transport- und Ablagerungsvorgänge, überwiegend unter dem Einfluss der Schwerkraft (gravitative Massenbewegung) erfolgen, entstanden sind. (verändert nach Zepp, 2002)</skos:definition>
+</rdf:Description>
+
+<rdf:Description rdf:about="https://resource.geosphere.at/thes/geomorph/977">
+	<rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+	<skos:prefLabel xml:lang="en">Paleokarst</skos:prefLabel>
+	<dcterms:created rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2017-02-23T07:27:06.000Z</dcterms:created>
+	<skos:notation>6846</skos:notation>
+	<skos:definition xml:lang="de">Karst, der sich während eines früheren Erosionszyklus gebildet hat und konserviert wurde (Begraben oder durch Stilllegung der Verkarstungsprozesse). (Neuendorf et al., 2005)</skos:definition>
+	<skos:definition xml:lang="en">A karst formed under an earlier erosion cycle, preserved by burial or suspension of karstification processes. Caves and sinkholes are usually filled with sediment. (Neuendorf et al., 2005)</skos:definition>
+	<skos:prefLabel xml:lang="de">Paläokarst</skos:prefLabel>
+	<dcterms:references rdf:resource="https://resource.geosphere.at/thes/citation/545"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="https://resource.geosphere.at/thes/geomorph/970">
+	<dcterms:created rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2017-02-23T07:25:39.000Z</dcterms:created>
+	<rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+	<skos:notation>6815</skos:notation>
+	<skos:prefLabel xml:lang="de">Permafrostphänomen</skos:prefLabel>
+	<skos:altLabel xml:lang="de">Periglaziales Phänomen</skos:altLabel>
+	<skos:definition xml:lang="de">Durch Permafrost-Prozesse entstandenes Phänomen. (Steinbichler et al., 2019)</skos:definition>
+	<dcterms:references rdf:resource="https://resource.geosphere.at/thes/citation/1302"/>
+	<skos:prefLabel xml:lang="en">Permafrost phenomenon</skos:prefLabel>
+	<skos:altLabel xml:lang="en">Periglacial phenomenon</skos:altLabel>
+	<skos:definition xml:lang="en">A phenomenon formed by periglacial processes. (Steinbichler et al., 2019)</skos:definition>
+	<skos:narrower rdf:resource="https://resource.geosphere.at/thes/geomorph/979"/>
+	<skos:narrower rdf:resource="https://resource.geosphere.at/thes/geomorph/980"/>
+	<skos:narrower rdf:resource="https://resource.geosphere.at/thes/geomorph/981"/>
+	<skos:narrower rdf:resource="https://resource.geosphere.at/thes/geomorph/982"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="https://resource.geosphere.at/thes/geomorph/979">
+	<rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+	<skos:notation>6849</skos:notation>
+	<dcterms:created rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2017-02-23T07:27:24.000Z</dcterms:created>
+	<skos:prefLabel xml:lang="de">Eiskeil-Pseudomorphose</skos:prefLabel>
+	<skos:prefLabel xml:lang="en">Ice wedge cast</skos:prefLabel>
+	<skos:altLabel xml:lang="de">Eiskeil</skos:altLabel>
+	<skos:definition xml:lang="de">Keilförmige sedimentäre Struktur die durch Frier- und Tauprozesse in Lockergesteinen während Permafrost Bedingungen entstanden ist und jetzt mit Sediment verfüllt ist. (Steinbichler et al., 2019; nach Neuendorf et al., 2005)</skos:definition>
+	<skos:definition xml:lang="en">Wedge-shaped sedimentary structure which formed by freezing and melting processes within unconsolidated sediments under permafrost conditions. (Steinbichler et al., 2019; modified from Neuendorf et al., 2005)</skos:definition>
+	<dcterms:references rdf:resource="https://resource.geosphere.at/thes/citation/1302"/>
+	<dcterms:references rdf:resource="https://resource.geosphere.at/thes/citation/545"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="https://resource.geosphere.at/thes/geomorph/980">
+	<dcterms:created rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2017-02-23T07:27:35.000Z</dcterms:created>
+	<rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+	<skos:notation>6850</skos:notation>
+	<skos:prefLabel xml:lang="de">Eiskeilnetz (fossil)</skos:prefLabel>
+	<skos:prefLabel xml:lang="en">Ice wedge network</skos:prefLabel>
+	<skos:definition xml:lang="de">Großflächige Verbreitung von fossilen Eiskeilen (Eiskeil-Pseudomorphosen). (Steinbichler et al., 2019)</skos:definition>
+	<skos:definition xml:lang="en">Area with a high density of ice wedge casts. (Steinbichler et al., 2019)</skos:definition>
+	<dcterms:references rdf:resource="https://resource.geosphere.at/thes/citation/1302"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="https://resource.geosphere.at/thes/geomorph/981">
+	<dcterms:created rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2017-02-23T07:27:41.000Z</dcterms:created>
+	<rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+	<skos:prefLabel xml:lang="en">Patterned ground</skos:prefLabel>
+	<skos:notation>6851</skos:notation>
+	<skos:prefLabel xml:lang="de">Frostmusterboden</skos:prefLabel>
+	<skos:definition xml:lang="en">A clearly defined, more or less symetrical surface feature (polygones, circles, strips, etc…) formed due to freezing and melting processes in regions of premafrost. (modified after Neuendorf et al., 2005)</skos:definition>
+	<skos:definition xml:lang="de">Klar abgegrenzte, mehr oder weniger symmetrische Oberflächenmerkmale des Bodens (Polygone, Kreise, Streifen, etc.,...), entstanden durch Gefrierungs- und Tauprozesse in Permafrostregionen. (abgeändert nach Neuendorf et al., 2005)</skos:definition>
+	<dcterms:references rdf:resource="https://resource.geosphere.at/thes/citation/545"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="https://resource.geosphere.at/thes/geomorph/982">
+	<dcterms:created rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2017-02-23T07:27:48.000Z</dcterms:created>
+	<skos:definition xml:lang="en">Mixing of loose sediment material of different horizons by freezing and melting. (modified from Neuendorf et al., 2005)</skos:definition>
+	<rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+	<skos:prefLabel xml:lang="de">Kryoturbation</skos:prefLabel>
+	<skos:notation>6852</skos:notation>
+	<skos:definition xml:lang="de">Durchmischung von Material in Lockergesteinen aus verschiedenen Horizonten aufgrund von Frier- und Tauprozessen während Permafrost Bedingungen. (verändert nach Neuendorf et al., 2005)</skos:definition>
+	<skos:prefLabel xml:lang="en">Cryoturbation</skos:prefLabel>
+	<dcterms:references rdf:resource="https://resource.geosphere.at/thes/citation/545"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="https://resource.geosphere.at/thes/geomorph/346">
+	<rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+	<skos:narrower rdf:resource="https://resource.geosphere.at/thes/geomorph/353"/>
+	<skos:narrower rdf:resource="https://resource.geosphere.at/thes/geomorph/352"/>
+	<skos:definition xml:lang="de">Erscheinung und Ablagerungen, die mit dem Vorkommen, der Zirkulation, der Verteilung und den Eigenschaften von Wasser über, auf und unter der Erdoberfläche sowie deren Wechselwirkung mit der Umwelt in Zusammenhang steht (Loat &amp; Meier, 2003).</skos:definition>
+	<skos:narrower rdf:resource="https://resource.geosphere.at/thes/geomorph/348"/>
+	<skos:narrower rdf:resource="https://resource.geosphere.at/thes/geomorph/347"/>
+	<dcterms:references rdf:resource="https://resource.geosphere.at/thes/citation/480"/>
+	<skos:prefLabel xml:lang="en">Hydrological phenomenon</skos:prefLabel>
+	<skos:narrower rdf:resource="https://resource.geosphere.at/thes/geomorph/973"/>
+	<skos:narrower rdf:resource="https://resource.geosphere.at/thes/geomorph/983"/>
+	<skos:prefLabel xml:lang="de">Hydrologisches Phänomen</skos:prefLabel>
+	<dcterms:created rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2011-06-06T14:30:11.000Z</dcterms:created>
+	<dcterms:hasVersion rdf:datatype="http://www.w3.org/2001/XMLSchema#int">22</dcterms:hasVersion>
+	<skos:definition xml:lang="en">Any phenomenon or deposit related to the occurrence, circulation, distribution, and properties of water, whether above or below the land surface, and its interactions with the environment (Loat &amp; Meier, 2003).</skos:definition>
+</rdf:Description>
+
+<rdf:Description rdf:about="https://resource.geosphere.at/thes/geomorph/352">
+	<dcterms:hasVersion rdf:datatype="http://www.w3.org/2001/XMLSchema#int">7</dcterms:hasVersion>
+	<skos:altLabel xml:lang="en">Waterlogged area</skos:altLabel>
+	<skos:prefLabel xml:lang="en">Wetland</skos:prefLabel>
+	<skos:narrowMatch rdf:resource="http://inspire.ec.europa.eu/codelist/NaturalObjectTypeValue/seep"/>
+	<dcterms:created rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2011-06-06T14:30:11.000Z</dcterms:created>
+	<skos:prefLabel xml:lang="de">Vernässung</skos:prefLabel>
+	<skos:definition xml:lang="de">Gelegentlich durchnässtes bzw. dauerhaft feuchtes Gebiet (BWG 2003).</skos:definition>
+	<skos:altLabel xml:lang="de">Nassstelle</skos:altLabel>
+	<skos:related rdf:resource="https://resource.geosphere.at/thes/geomorph/348"/>
+	<skos:hiddenLabel xml:lang="de">Feuchtstelle</skos:hiddenLabel>
+	<dcterms:references rdf:resource="https://resource.geosphere.at/thes/citation/22"/>
+	<skos:definition xml:lang="en">A periodically or permanently wet area (BWG 2003).</skos:definition>
+	<rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+	<colourHexCode xmlns="http://dbpedia.org/ontology/">#FFFFFF</colourHexCode>
+</rdf:Description>
+
+<rdf:Description rdf:about="https://resource.geosphere.at/thes/geomorph/353">
+	<dcterms:created rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2011-06-06T14:30:11.000Z</dcterms:created>
+	<skos:exactMatch rdf:resource="http://dbpedia.org/resource/Spring_(hydrology)"/>
+	<skos:exactMatch rdf:resource="http://inspire.ec.europa.eu/codelist/NaturalObjectTypeValue/spring"/>
+	<rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+	<skos:prefLabel xml:lang="en">Spring</skos:prefLabel>
+	<dcterms:hasVersion rdf:datatype="http://www.w3.org/2001/XMLSchema#int">6</dcterms:hasVersion>
+	<skos:prefLabel xml:lang="de">Quellaustritt</skos:prefLabel>
+	<skos:definition xml:lang="de">Ort eines räumlich eng begrenzten Grundwasseraustritts, auch nach künstlicher Quellfassung. (Lexikon der Geowissenschaften, Martin et al., 2002)</skos:definition>
+	<skos:definition xml:lang="en">Location of a spatially confined groundwater outlet, also after artificial spring catchment. (Lexikon der Geowissenschaften, Martin et al., 2002)</skos:definition>
+	<dcterms:references rdf:resource="https://resource.geosphere.at/thes/citation/483"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="https://resource.geosphere.at/thes/geomorph/983">
+	<dcterms:created rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2017-02-23T07:27:54.000Z</dcterms:created>
+	<skos:prefLabel xml:lang="en">Water sink</skos:prefLabel>
+	<skos:prefLabel xml:lang="de">Schwinde</skos:prefLabel>
+	<rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+	<skos:notation>6843</skos:notation>
+	<skos:narrower rdf:resource="https://resource.geosphere.at/thes/geomorph/298"/>
+	<skos:definition xml:lang="de">Bereich an der ein Oberflächengerinne teilweise oder zur Gänze versickert. (Steinbichler et al., 2019)
+</skos:definition>
+	<skos:definition xml:lang="en">Area where water disapears in the ground. (Steinbichler et al., 2019)
+</skos:definition>
+	<dcterms:references rdf:resource="https://resource.geosphere.at/thes/citation/1302"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="https://resource.geosphere.at/thes/geomorph/298">
+	<skos:prefLabel xml:lang="de">Ponor</skos:prefLabel>
+	<skos:prefLabel xml:lang="en">Ponor</skos:prefLabel>
+	<skos:definition xml:lang="de">Öffnung im Karst, in dem oberflächliche Fließ- oder Stehgewässer teilweise oder zur Gänze, permanent oder tempoär in ein Karstsystem eintreten und unterirdisch abfließen. (verändert nach Gunn, 2004; Neuendorf et al. 2005).</skos:definition>
+	<rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+	<dcterms:references rdf:resource="https://resource.geosphere.at/thes/citation/545"/>
+	<skos:altLabel xml:lang="de">Schluckloch</skos:altLabel>
+	<skos:definition xml:lang="en">The opening through which a sinking stream loses its water to the subsurface into a karst system. (modified after Gunn, 2004; Neuendorf et al. 2005).</skos:definition>
+	<dcterms:created rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2011-06-06T14:30:11.000Z</dcterms:created>
+	<skos:altLabel xml:lang="en">Swallet</skos:altLabel>
+	<dcterms:references rdf:resource="https://resource.geosphere.at/thes/citation/267"/>
+	<dcterms:hasVersion rdf:datatype="http://www.w3.org/2001/XMLSchema#int">10</dcterms:hasVersion>
+	<dcterms:references rdf:resource="https://resource.geosphere.at/thes/citation/1302"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="https://resource.geosphere.at/thes/geomorph/973">
+	<rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+	<dcterms:created rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2017-02-23T07:26:24.000Z</dcterms:created>
+	<skos:notation>6823</skos:notation>
+	<skos:prefLabel xml:lang="en">Well</skos:prefLabel>
+	<skos:prefLabel xml:lang="de">Brunnen</skos:prefLabel>
+	<skos:definition xml:lang="de">Künstliche Anlage zur Erschließung (Fassung, Gewinnung, Förderung, Beobachtung, Absenkung, Versenkung/Versickerung oder Wiedereinleitung) von (Grund-)Wasser. (Lexikon der Geowissenschaften, Martin et al., 2002)</skos:definition>
+	<skos:definition xml:lang="en">Artificial installation for the development (catchment, extraction, conveyance, observation, lowering, sinking/infiltration or reintroduction) of (ground)water. (Lexikon der Geowissenschaften, Martin et al., 2002)</skos:definition>
+	<skos:closeMatch rdf:resource="https://www.spektrum.de/lexikon/geowissenschaften/brunnen/2404"/>
+	<dcterms:references rdf:resource="https://resource.geosphere.at/thes/citation/483"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="https://resource.geosphere.at/thes/geomorph/347">
+	<skos:altLabel xml:lang="de">Sumpfboden</skos:altLabel>
+	<dcterms:references rdf:resource="https://resource.geosphere.at/thes/citation/22"/>
+	<rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+	<dcterms:created rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2011-06-06T14:30:11.000Z</dcterms:created>
+	<skos:prefLabel xml:lang="en">Swamp</skos:prefLabel>
+	<skos:definition xml:lang="en">A permanently wet, sometimes flooded area with characteristic plant growth (BWG 2003).</skos:definition>
+	<dcterms:hasVersion rdf:datatype="http://www.w3.org/2001/XMLSchema#int">7</dcterms:hasVersion>
+	<skos:hiddenLabel xml:lang="de">Sumpfwiese</skos:hiddenLabel>
+	<skos:definition xml:lang="de">Stets durchnässtes, gelegentlich überschwemmtes Gebiet mit charakteristischem Pflanzenbewuchs (BWG 2003).</skos:definition>
+	<skos:prefLabel xml:lang="de">Sumpf</skos:prefLabel>
+</rdf:Description>
+
+<rdf:Description rdf:about="https://resource.geosphere.at/thes/geomorph/348">
+	<skos:exactMatch rdf:resource="http://inspire.ec.europa.eu/codelist/NaturalObjectTypeValue/fen"/>
+	<dcterms:references rdf:resource="https://resource.geosphere.at/thes/citation/272"/>
+	<dcterms:hasVersion rdf:datatype="http://www.w3.org/2001/XMLSchema#int">15</dcterms:hasVersion>
+	<dcterms:created rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2011-06-06T14:30:11.000Z</dcterms:created>
+	<rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+	<skos:related rdf:resource="https://resource.geosphere.at/thes/geomorph/352"/>
+	<skos:prefLabel xml:lang="en">Bog</skos:prefLabel>
+	<skos:altLabel xml:lang="en">Moor</skos:altLabel>
+	<dcterms:references rdf:resource="https://resource.geosphere.at/thes/citation/545"/>
+	<skos:narrower rdf:resource="https://resource.geosphere.at/thes/geomorph/351"/>
+	<skos:narrower rdf:resource="https://resource.geosphere.at/thes/geomorph/350"/>
+	<skos:narrower rdf:resource="https://resource.geosphere.at/thes/geomorph/349"/>
+	<skos:definition xml:lang="en">Bogs are areas where peat is formed. Peat is formed by an incomplete disintegration of certain plant communities; the most important factor in its formation is the presence of excess water, resulting in a lack of oxygen. (Hinze et al., 1989; Neuendorf et al., 2005)</skos:definition>
+	<skos:prefLabel xml:lang="de">Moor</skos:prefLabel>
+	<skos:definition xml:lang="de">Als Moore bezeichnet man die Entstehungsgebiete der Torfe, die durch eine unvollständige Zersetzung aus bestimmten Pflanzengesellschaften entstehen. Die wichtigsten Bildungsbedingungen sind hoher Wasserüberschuss und damit verbundener Sauerstoffmangel (Hinze et al., 1989; Neuendorf et al., 2005).</skos:definition>
+	<colourHexCode xmlns="http://dbpedia.org/ontology/">#FFFFFF</colourHexCode>
+</rdf:Description>
+
+<rdf:Description rdf:about="https://resource.geosphere.at/thes/geomorph/349">
+	<dcterms:references rdf:resource="https://resource.geosphere.at/thes/citation/272"/>
+	<skos:related rdf:resource="https://resource.geosphere.at/thes/geomorph/351"/>
+	<skos:related rdf:resource="https://resource.geosphere.at/thes/geomorph/350"/>
+	<skos:altLabel xml:lang="en">Ombrogenous bog</skos:altLabel>
+	<dcterms:created rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2011-06-06T14:30:11.000Z</dcterms:created>
+	<skos:definition xml:lang="en">A bog formed by precipitation and independent of groundwater. A highmoor bog forms a enclosed water body. The lack of nutrients in water from precipitation and the absence of any nutrient input from other sources results in a sour environment. (Hinze et al., 1989; Neuendorf et al., 2005)</skos:definition>
+	<skos:definition xml:lang="de">Niederschlagsbedingte, vom Grundwasser unbeeinflusste Vermoorung. Im Hochmoor baut sich ein eigenständiger Wasserkörper auf. Die Nährstoffarmut des Niederschlagswassers und der geringe sonstige Eintrag an Nährstoffen bedingen eine extreme Nährstoffarmut und ein stark saures Milieu. (Hinze et al., 1989, Neuendorf et al., 2005)</skos:definition>
+	<dcterms:hasVersion rdf:datatype="http://www.w3.org/2001/XMLSchema#int">9</dcterms:hasVersion>
+	<dcterms:references rdf:resource="https://resource.geosphere.at/thes/citation/545"/>
+	<rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+	<skos:prefLabel xml:lang="de">Hochmoor</skos:prefLabel>
+	<skos:prefLabel xml:lang="en">Highmoor bog</skos:prefLabel>
+	<colourHexCode xmlns="http://dbpedia.org/ontology/">#FFFFFF</colourHexCode>
+</rdf:Description>
+
+<rdf:Description rdf:about="https://resource.geosphere.at/thes/geomorph/350">
+	<dcterms:references rdf:resource="https://resource.geosphere.at/thes/citation/272"/>
+	<skos:related rdf:resource="https://resource.geosphere.at/thes/geomorph/349"/>
+	<skos:definition xml:lang="de">Vermoorung unter dem Einfluss von Mineralbodenwasser. Entsprechend den unterschiedlichen örtlichen Bedingungen (Nässe, Chemismus) besteht hinsichtlich der Ausgangsvegetation und der Torfarten eine große Vielfalt. (Hinze et al., 1989)</skos:definition>
+	<skos:related rdf:resource="https://resource.geosphere.at/thes/geomorph/351"/>
+	<dcterms:created rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2011-06-06T14:30:11.000Z</dcterms:created>
+	<skos:definition xml:lang="en">A bog formed by groundwater in which different types of peat can form depending on the local conditions and vegetation (Hinze et al., 1989).</skos:definition>
+	<dcterms:hasVersion rdf:datatype="http://www.w3.org/2001/XMLSchema#int">7</dcterms:hasVersion>
+	<skos:prefLabel xml:lang="en">Lowmoor bog</skos:prefLabel>
+	<skos:prefLabel xml:lang="de">Niedermoor</skos:prefLabel>
+	<rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+	<skos:altLabel xml:lang="en">Topogenous bog</skos:altLabel>
+	<colourHexCode xmlns="http://dbpedia.org/ontology/">#FFFFFF</colourHexCode>
+</rdf:Description>
+
+<rdf:Description rdf:about="https://resource.geosphere.at/thes/geomorph/351">
+	<dcterms:created rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2011-06-06T14:30:11.000Z</dcterms:created>
+	<skos:related rdf:resource="https://resource.geosphere.at/thes/geomorph/349"/>
+	<skos:related rdf:resource="https://resource.geosphere.at/thes/geomorph/350"/>
+	<skos:prefLabel xml:lang="en">Half-bog soil</skos:prefLabel>
+	<skos:prefLabel xml:lang="de">Anmoor</skos:prefLabel>
+	<dcterms:references rdf:resource="https://resource.geosphere.at/thes/citation/272"/>
+	<skos:definition xml:lang="en">A mixture of mineral and dispersed organic matter (15-30 %) or peat of less than 0.3 meters (Hinze et al., 1989; Neuendorf et al., 2005).</skos:definition>
+	<skos:definition xml:lang="de">Gemisch aus mineralischer und feinverteilter organischer Substanz (15-30 Gew.%), oder Torf, der weniger als 0,30m mächtig ist. (Hinze et al., 1989, Neuendorf et al., 2005)</skos:definition>
+	<skos:altLabel xml:lang="de">Anmooriger Boden</skos:altLabel>
+	<dcterms:references rdf:resource="https://resource.geosphere.at/thes/citation/545"/>
+	<dcterms:hasVersion rdf:datatype="http://www.w3.org/2001/XMLSchema#int">9</dcterms:hasVersion>
+	<rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+	<colourHexCode xmlns="http://dbpedia.org/ontology/">#FFFFFF</colourHexCode>
+</rdf:Description>
+
+<rdf:Description rdf:about="https://resource.geosphere.at/thes/geomorph/974">
+	<dcterms:created rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2017-02-23T07:26:34.000Z</dcterms:created>
+	<skos:prefLabel xml:lang="de">Anthropogenes Phänomen</skos:prefLabel>
+	<skos:notation>6807</skos:notation>
+	<skos:prefLabel xml:lang="en">Antropogenic phenomenon</skos:prefLabel>
+	<rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+	<skos:narrower rdf:resource="https://resource.geosphere.at/thes/geomorph/973"/>
+	<skos:definition xml:lang="de">Durch menschliche Tätigkeit (künstlich) erzeugtes Phänomen. (Steinbichler et al., 2019)</skos:definition>
+	<skos:definition xml:lang="en">Phenomenon (artificially) created by human activity. (after Steinbichler et al., 2019)</skos:definition>
+	<dcterms:references rdf:resource="https://resource.geosphere.at/thes/citation/1302"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="https://resource.geosphere.at/thes/geomorph/975">
+	<dcterms:created rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2017-02-23T07:26:46.000Z</dcterms:created>
+	<skos:prefLabel xml:lang="de">Verwitterungsphänomen</skos:prefLabel>
+	<skos:notation>6808</skos:notation>
+	<skos:prefLabel xml:lang="en">Weathering Phenomenon</skos:prefLabel>
+	<rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+	<skos:narrower rdf:resource="https://resource.geosphere.at/thes/geomorph/971"/>
+	<skos:narrower rdf:resource="https://resource.geosphere.at/thes/geomorph/972"/>
+	<skos:definition xml:lang="de">Durch Verwitterungsprozesse erzeugtes Phänomen. (Steinbichler et al., 2019)</skos:definition>
+	<skos:definition xml:lang="en">A phenomenon formed by weathering processes. (Steinbichler et al., 2019)</skos:definition>
+	<dcterms:references rdf:resource="https://resource.geosphere.at/thes/citation/1302"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="https://resource.geosphere.at/thes/geomorph/971">
+	<skos:prefLabel xml:lang="de">Geologische Orgel</skos:prefLabel>
+	<skos:prefLabel xml:lang="en">Pipe-like weathering structure</skos:prefLabel>
+	<rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+	<skos:notation>6816</skos:notation>
+	<dcterms:created rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2017-02-23T07:25:57.000Z</dcterms:created>
+	<skos:definition xml:lang="de">Durch intensive Lösungsverwitterung entlang von Wasserwegigkeiten entstandene Schlote oder Trichter in Karbonat führenden Lockergesteinen. (Steinbichler et al., 2019)</skos:definition>
+	<skos:definition xml:lang="en">Pipe-like structure in carbonate bearing sediments due to weathering and dissolution along joints and cracks. (Steinbichler et al., 2019)
+</skos:definition>
+	<dcterms:references rdf:resource="https://resource.geosphere.at/thes/citation/1302"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="https://resource.geosphere.at/thes/geomorph/972">
+	<skos:notation>6817</skos:notation>
+	<skos:definition xml:lang="de">Chemische Verwitterung, die am Trennflächensystem von Graniten, Gneisen oder Sandsteinen anzsetzt und eine Abrundung durch schalenförmiges Abplatzen des Gesteins bewirkt, sodass Türme bis Blöcke entstehen (Wollsäcke). (verändert nach Stumptner, 1999)</skos:definition>
+	<skos:definition xml:lang="en">Chemical weathering that affects jointed bedrock and results in the formation of concentric or spherical layers of highly decayed rock within weathered bedrock. (modified from Stumptner, 1999)</skos:definition>
+	<rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+	<skos:prefLabel xml:lang="de">Wollsackverwitterung</skos:prefLabel>
+	<skos:prefLabel xml:lang="en">Spheroidal weathering</skos:prefLabel>
+	<dcterms:created rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2017-02-23T07:26:16.000Z</dcterms:created>
+</rdf:Description>
+
+<rdf:Description rdf:about="https://resource.geosphere.at/thes/geomorph/292">
+	<skos:broader rdf:resource="https://resource.geosphere.at/thes/geomorph/305"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="https://resource.geosphere.at/thes/geomorph/375">
+	<skos:broader rdf:resource="https://resource.geosphere.at/thes/geomorph/316"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="https://resource.geosphere.at/thes/geomorph/972">
+	<skos:broader rdf:resource="https://resource.geosphere.at/thes/geomorph/975"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="https://resource.geosphere.at/thes/geomorph/973">
+	<skos:broader rdf:resource="https://resource.geosphere.at/thes/geomorph/346"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="https://resource.geosphere.at/thes/geomorph/979">
+	<skos:broader rdf:resource="https://resource.geosphere.at/thes/geomorph/970"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="https://resource.geosphere.at/thes/geomorph/331">
+	<skos:broader rdf:resource="https://resource.geosphere.at/thes/geomorph/330"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="https://resource.geosphere.at/thes/geomorph/314">
+	<skos:broader rdf:resource="https://resource.geosphere.at/thes/geomorph/295"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="https://resource.geosphere.at/thes/geomorph/312">
+	<skos:broader rdf:resource="https://resource.geosphere.at/thes/geomorph/310"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="https://resource.geosphere.at/thes/geomorph/983">
+	<skos:broader rdf:resource="https://resource.geosphere.at/thes/geomorph/346"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="https://resource.geosphere.at/thes/geomorph/317">
+	<skos:broader rdf:resource="https://resource.geosphere.at/thes/geomorph/316"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="https://resource.geosphere.at/thes/geomorph/301">
+	<skos:broader rdf:resource="https://resource.geosphere.at/thes/geomorph/295"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="https://resource.geosphere.at/thes/geomorph/366">
+	<skos:broader rdf:resource="https://resource.geosphere.at/thes/geomorph/316"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="https://resource.geosphere.at/thes/geomorph/324">
+	<skos:broader rdf:resource="https://resource.geosphere.at/thes/geomorph/295"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="https://resource.geosphere.at/thes/geomorph/308">
+	<skos:broader rdf:resource="https://resource.geosphere.at/thes/geomorph/305"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="https://resource.geosphere.at/thes/geomorph/981">
+	<skos:broader rdf:resource="https://resource.geosphere.at/thes/geomorph/970"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="https://resource.geosphere.at/thes/geomorph/118">
+	<skos:broader rdf:resource="https://resource.geosphere.at/thes/geomorph/316"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="https://resource.geosphere.at/thes/geomorph/977">
+	<skos:broader rdf:resource="https://resource.geosphere.at/thes/geomorph/969"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="https://resource.geosphere.at/thes/geomorph/971">
+	<skos:broader rdf:resource="https://resource.geosphere.at/thes/geomorph/975"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="https://resource.geosphere.at/thes/geomorph/297">
+	<skos:broader rdf:resource="https://resource.geosphere.at/thes/geomorph/296"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="https://resource.geosphere.at/thes/geomorph/302">
+	<skos:broader rdf:resource="https://resource.geosphere.at/thes/geomorph/301"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="https://resource.geosphere.at/thes/geomorph/980">
+	<skos:broader rdf:resource="https://resource.geosphere.at/thes/geomorph/970"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="https://resource.geosphere.at/thes/geomorph/349">
+	<skos:broader rdf:resource="https://resource.geosphere.at/thes/geomorph/348"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="https://resource.geosphere.at/thes/geomorph/305">
+	<skos:broader rdf:resource="https://resource.geosphere.at/thes/geomorph/295"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="https://resource.geosphere.at/thes/geomorph/313">
+	<skos:broader rdf:resource="https://resource.geosphere.at/thes/geomorph/310"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="https://resource.geosphere.at/thes/geomorph/318">
+	<skos:broader rdf:resource="https://resource.geosphere.at/thes/geomorph/316"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="https://resource.geosphere.at/thes/geomorph/375">
+	<skos:broader rdf:resource="https://resource.geosphere.at/thes/geomorph/296"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="https://resource.geosphere.at/thes/geomorph/363">
+	<skos:broader rdf:resource="https://resource.geosphere.at/thes/geomorph/316"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="https://resource.geosphere.at/thes/geomorph/322">
+	<skos:broader rdf:resource="https://resource.geosphere.at/thes/geomorph/321"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="https://resource.geosphere.at/thes/geomorph/367">
+	<skos:broader rdf:resource="https://resource.geosphere.at/thes/geomorph/316"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="https://resource.geosphere.at/thes/geomorph/321">
+	<skos:broader rdf:resource="https://resource.geosphere.at/thes/geomorph/316"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="https://resource.geosphere.at/thes/geomorph/309">
+	<skos:broader rdf:resource="https://resource.geosphere.at/thes/geomorph/305"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="https://resource.geosphere.at/thes/geomorph/320">
+	<skos:broader rdf:resource="https://resource.geosphere.at/thes/geomorph/319"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="https://resource.geosphere.at/thes/geomorph/348">
+	<skos:broader rdf:resource="https://resource.geosphere.at/thes/geomorph/346"/>
+</rdf:Description>
+
+</rdf:RDF>

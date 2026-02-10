@@ -1,9 +1,10 @@
 ﻿eCharts_circleChart = function (rawData, elementId) {
+  let allowedMaxDepth = 5;
   let chartDom = document.getElementById(elementId);
-
   let myChart = echarts.init(chartDom, null, {
     renderer: "svg",
   });
+
   function outputsize() {
     setTimeout(function () {
       myChart.resize();
@@ -12,49 +13,56 @@
   new ResizeObserver(outputsize).observe(chartDom);
 
   var option;
+
+  //convert the raw data (nested) to flat data
   function prepareData(rawData) {
     const seriesData = [];
-    let maxDepth = 0;
-    let ix = 0;
+
+    let reachedMaxDepth = 0;
+
     function convert(source, parent, depth) {
       if (source == null) {
         return;
       }
-      if (maxDepth > 5) {
+      if (depth > allowedMaxDepth) {
         return;
       }
-      maxDepth = Math.max(depth, maxDepth);
-      source.id = ix;
 
-      ix++;
-      let nd = {
+      reachedMaxDepth = Math.max(reachedMaxDepth, depth);
+      let newNode = {
         id: source.id,
         name: source.name,
         parentId: parent != null ? parent.id : null,
-        value: source.value,
+        value: 1, //set the value to 1, so all circles have the same size/weight
         depth: depth,
         index: seriesData.length,
         itemStyle: source.itemStyle,
       };
-      seriesData.push(nd);
+
+      seriesData.push(newNode);
+
+      //make a new recursion if the node has children nodes
       if (source.children && source.children.length > 0) {
-        for (let c of source.children) {
-          convert(c, source, depth + 1);
+        for (let child of source.children) {
+          convert(child, source, depth + 1);
         }
-      } else if (!nd.value) {
-        nd.value = 1;
       }
     }
     convert(rawData, null, 0);
+
     return {
       seriesData: seriesData,
-      maxDepth: maxDepth,
+      maxDepth: reachedMaxDepth,
     };
   }
-  var all;
+
+  let all; //all Nodes
+
   function initChart(seriesData, maxDepth) {
     var displayRoot = stratify();
+
     all = displayRoot.descendants();
+
     function stratify() {
       return d3
         .stratify()
@@ -68,6 +76,7 @@
           return b.value - a.value;
         });
     }
+
     function overallLayout(params, api) {
       var context = params.context;
       d3
@@ -75,24 +84,31 @@
         .size([api.getWidth() - 2, api.getHeight() - 2])
         .padding(3)(displayRoot);
       context.nodes = {};
-      displayRoot.descendants().forEach(function (node, index) {
+      displayRoot.descendants().forEach(function (node) {
         context.nodes[node.id] = node;
       });
     }
+    const colorsLookUp = new Map();
+
     function renderItem(params, api) {
       var context = params.context;
+
       // Only do that layout once in each time `setOption` called.
       if (!context.layout) {
         context.layout = true;
         overallLayout(params, api);
       }
+
       var nodePath = api.value("id");
       var node = context.nodes[nodePath];
       if (!node) {
-        // Reder nothing.
+        // Render nothing.
         return;
       }
+
       var isLeaf = !node.children || !node.children.length;
+
+      //on hover highlight complete subtree
       var focus = new Uint32Array(
         node.descendants().map(function (node) {
           return node.data.index;
@@ -101,10 +117,9 @@
       var nodeName = node.data.name;
       var z2 = api.value("depth") * 2;
 
-      let itemColor = api.visual("color");
-
-      drawStack(displayRoot);
-
+      // let itemColor = api.visual("color");
+      const color = node.data.itemStyle.color || api.visual("color");
+      colorsLookUp.set(node.data.id, color);
       return {
         type: "circle",
         focus: focus,
@@ -118,19 +133,17 @@
         textContent: {
           type: "text",
           style: {
-            // transition: isLeaf ? "fontSize" : null,
+            transition: isLeaf ? "fontSize" : null,
             text: nodeName.replace(/ /g, "\n"),
             width: node.r * 1.3,
             overflow: "truncate",
-            // fontSize: 12,
             fontSize: isLeaf ? node.r / 3 : 0,
             color: "grey",
           },
           emphasis: {
             style: {
               overflow: null,
-              //   fontSize: 28,
-              fontSize: isLeaf ? Math.max(node.r / 3, 12) : 0,
+              fontSize: isLeaf ? Math.max(node.r / 3, 24) : 0,
               color: "grey",
             },
           },
@@ -152,12 +165,14 @@
         },
       };
     }
+
     function nodeText(text) {
       if (text.startsWith("https://") && text.length > 20) {
         return text.substring(0, 20) + "...";
       }
       return text;
     }
+
     function drawStack(node) {
       let text = null;
       while (node) {
@@ -170,11 +185,52 @@
       }
       document.getElementById("stackContent").innerHTML = text;
     }
+
+    let backgroundColor = "#fff";
+
     option = {
       dataset: {
         source: seriesData,
       },
-      tooltip: {},
+
+      tooltip: {
+        trigger: "item",
+        backgroundColor: "#ffffff",
+        borderRadius: 6,
+        padding: 10,
+        textStyle: {
+          color: "#3f3f3f",
+          fontSize: 16,
+        },
+        formatter: function (params) {
+          const data = params.data;
+          return `
+            <div style="
+              min-width:10px;
+              padding:0.25rem;
+              display:flex;
+              align-items:center;
+              justify-content:center;
+              gap:0.5rem;
+              ">
+              <div style="
+                width:10px;
+                height:10px;
+                border-radius:50%;
+                background-color:${data.itemStyle.color};
+                flex-shrink:0;
+              "></div>
+              <p style="
+                margin:0;
+                text-align:center;
+              ">
+                ${data.name}
+              </p>
+            </div>
+          `;
+        },
+      },
+
       visualMap: [
         {
           show: false,
@@ -182,11 +238,13 @@
           max: maxDepth,
           dimension: "depth",
           inRange: {
-            color: ["#006edd", "#e0ffff"],
+            color: ["#838383", "#e0e0e0"],
           },
         },
       ],
+
       hoverLayerThreshold: Infinity,
+
       series: {
         type: "custom",
         renderItem: renderItem,
@@ -201,8 +259,29 @@
     myChart.on("click", { seriesIndex: 0 }, function (params) {
       drillDown(params.data.id);
     });
+
+    const zr = myChart.getZr();
+
+    const bgRect = new echarts.graphic.Rect({
+      shape: {
+        x: 0,
+        y: 0,
+        width: zr.getWidth(),
+        height: zr.getHeight(),
+      },
+      style: {
+        fill: backgroundColor,
+        cursor: "pointer",
+      },
+
+      z: -10,
+      onclick: function () {
+        drillDown(); // zoom out
+      },
+    });
+    zr.add(bgRect);
+
     function drillDown(targetNodeId) {
-      let isTargetNodeId = targetNodeId != null;
       let dr = displayRoot;
       displayRoot = stratify();
       if (targetNodeId == null) {
@@ -213,6 +292,14 @@
           return node.data.id === targetNodeId;
         });
       }
+
+      parent = all.find(
+        (circle) => circle.data.id === displayRoot.data.parentId,
+      );
+
+      backgroundColor = parent ? colorsLookUp.get(parent.data.id) : "#fff";
+      bgRect.style.fill = backgroundColor;
+
       // A trick to prevent d3-hierarchy from visiting parents in this algorithm.
       drawStack(displayRoot);
       displayRoot.parent = null;
@@ -222,6 +309,7 @@
         },
       });
     }
+
     // Reset: click on the blank area.
     myChart.getZr().on("click", function (event) {
       if (!event.target) {

@@ -5,6 +5,11 @@
     renderer: "svg",
   });
 
+  //prevent default right click behavior
+  chartDom.oncontextmenu = function (e) {
+    e.preventDefault();
+  };
+
   function outputsize() {
     setTimeout(function () {
       myChart.resize();
@@ -37,6 +42,7 @@
         depth: depth,
         index: seriesData.length,
         itemStyle: source.itemStyle,
+        uri: source.title,
       };
 
       seriesData.push(newNode);
@@ -256,8 +262,21 @@
       },
     };
     myChart.setOption(option);
+
     myChart.on("click", { seriesIndex: 0 }, function (params) {
       drillDown(params.data.id);
+    });
+
+    myChart.on("mousedown", { seriesIndex: 0 }, function (params) {
+      const mouseEvent = params.event.event;
+
+      if (mouseEvent.button === 2) {
+        // right click
+        const uri = params.data?.uri;
+        if (uri) {
+          window.open(uri, "_blank", "noopener,noreferrer");
+        }
+      }
     });
 
     const zr = myChart.getZr();
@@ -269,15 +288,28 @@
         width: zr.getWidth(),
         height: zr.getHeight(),
       },
+      z: -10,
       style: {
         fill: backgroundColor,
         cursor: "pointer",
       },
-
-      z: -10,
+      emphasis: {
+        style: {
+          fill: "#f00",
+        },
+      },
       onclick: function () {
         drillDown(); // zoom out
       },
+    });
+    bgRect.on("mouseover", function () {
+      bgRect.style.opacity = 0.75;
+      bgRect.dirty();
+    });
+
+    bgRect.on("mouseout", function () {
+      bgRect.style.opacity = 1;
+      bgRect.dirty();
     });
     zr.add(bgRect);
 

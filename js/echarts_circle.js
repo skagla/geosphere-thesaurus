@@ -123,9 +123,9 @@
       var nodeName = node.data.name;
       var z2 = api.value("depth") * 2;
 
-      // let itemColor = api.visual("color");
       const color = node.data.itemStyle.color || api.visual("color");
       colorsLookUp.set(node.data.id, color);
+
       return {
         type: "circle",
         focus: focus,
@@ -223,7 +223,7 @@
                 width:10px;
                 height:10px;
                 border-radius:50%;
-                background-color:${data.itemStyle.color};
+                background-color:${colorsLookUp.get(data.id)};
                 flex-shrink:0;
               "></div>
               <p style="
@@ -292,11 +292,6 @@
       style: {
         fill: backgroundColor,
         cursor: "pointer",
-      },
-      emphasis: {
-        style: {
-          fill: "#f00",
-        },
       },
       onclick: function () {
         drillDown(); // zoom out

@@ -84,6 +84,7 @@
     }
 
     function overallLayout(params, api) {
+      drawStack(displayRoot);
       var context = params.context;
       d3
         .pack()
@@ -327,8 +328,8 @@
       backgroundColor = parent ? colorsLookUp.get(parent.data.id) : "#fff";
       bgRect.style.fill = backgroundColor;
 
-      // A trick to prevent d3-hierarchy from visiting parents in this algorithm.
       drawStack(displayRoot);
+      // A trick to prevent d3-hierarchy from visiting parents in this algorithm.
       displayRoot.parent = null;
       myChart.setOption({
         dataset: {

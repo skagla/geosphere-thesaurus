@@ -168,45 +168,32 @@
   </head>
   <body onload="onResize()" onresize="onResize()">
     <!-- Header Section -->
-    <header class="site-header text-center">
+    <!-- <header class="site-header text-center">
       <h2>Visual Relations</h2>
       <p class="lead">Use widgets below to analyze related items</p>
-    </header>
+    </header> -->
 
-    <!-- Main Content with 4 Panels -->
+    <!-- Main Section -->
     <main class="main-content">
-      <div class="container-fluid p-2 panel-container">
-        <div class="row">
-          <!-- Each column is a flex item -->
-          <div id="diagramPanel" class="col-12 col-md-12 col-lg-12 mb-2 p-0">
-            <div class="panel p-0 text-center maximized">
-              <h5
-                id="stackContent"
-                style="
-                  position: absolute;
-                  top: 0px;
-                  left: 0px;
-                  right: 0px;
-                  bottom: 0px;
-                "></h5>
-              <div
-                id="divDiagram"
-                style="
-                  position: absolute;
-                  top: 30px;
-                  left: 0px;
-                  right: 0px;
-                  bottom: 0px;
-                "
-                class="overflow-auto"></div>
-            </div>
-          </div>
+      <div class="w-100 d-flex flex-column pt-2 text-center bg-white">
+        <h5 id="stackContent" class=""></h5>
+        <div id="divDiagram" class="w-100 h-100 flex-grow-1"></div>
+        <div class="w-100 border border-1 p-2 d-flex flex-column text-left">
+          <p class="m-0 font-weight-bold">Navigation:</p>
+          <p class="m-0">
+            <span class="font-italic">left mouse button: </span>
+            click on a circle to zoom in. click on the background to zoom out
+          </p>
+          <p class="m-0">
+            <span class="font-italic">right mouse button: </span> click on a
+            circle to get to the corresponding thesaurus page
+          </p>
         </div>
       </div>
     </main>
 
     <!-- Footer Section -->
-    <footer class="site-footer"></footer>
+    <!-- <footer class="site-footer"></footer> -->
 
     <!-- jQuery and Bootstrap JS Bundle (Popper.js included) -->
     <script src="https://code.jquery.com/jquery-3.5.1.min.js"></script>

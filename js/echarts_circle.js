@@ -346,6 +346,22 @@
     });
   }
 
+  function drawControls() {
+    const text = `
+        <p class="m-0 font-weight-bold">Navigation:</p>
+        <p class="m-0">
+          <span class="font-italic">left mouse button: </span>
+          click on a circle to zoom in. click on the background to zoom out
+        </p>
+        <p class="m-0">
+          <span class="font-italic">right mouse button: </span>
+          click on a circle to get to the corresponding thesaurus page
+        </p>
+    `;
+    document.getElementById("controls").innerHTML = text;
+  }
+
+  drawControls();
   const dataWrap = prepareData(rawData);
   initChart(dataWrap.seriesData, dataWrap.maxDepth);
 };

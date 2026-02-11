@@ -45,69 +45,6 @@
     },
   };
 
-  let option_old = {
-    title: {
-      text: "",
-      subtext: "",
-      textStyle: {
-        fontSize: 14,
-        align: "center",
-        color: "black",
-      },
-      subtextStyle: {
-        align: "center",
-      },
-    },
-    series: {
-      type: "sunburst",
-      data: data,
-      radius: [0, "95%"],
-      sort: undefined,
-      emphasis: {
-        focus: "ancestor",
-      },
-      levels: [
-        {},
-        {
-          r0: "15%",
-          r: "35%",
-          itemStyle: {
-            borderWidth: 2,
-          },
-          label: {
-            //rotate: 'tangential'
-            align: "right",
-            color: "black",
-            fontSize: 11,
-          },
-        },
-        {
-          r0: "35%",
-          r: "70%",
-          label: {
-            align: "right",
-            color: "black",
-            fontSize: 11,
-          },
-        },
-        {
-          r0: "70%",
-          r: "72%",
-          label: {
-            position: "outside",
-            padding: 3,
-            silent: false,
-            color: "black",
-            fontSize: 11,
-          },
-          itemStyle: {
-            borderWidth: 3,
-          },
-        },
-      ],
-    },
-  };
-
   function drawControls() {
     const text = `
         <p class="m-0 font-weight-bold">Navigation:</p>

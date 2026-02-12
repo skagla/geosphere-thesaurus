@@ -63,7 +63,7 @@
   drawControls();
 
   option && myChart.setOption(option);
-  myChart.on("mousedown", { seriesIndex: 0 }, function (params) {
+  myChart.on("mouseup", { seriesIndex: 0 }, function (params) {
     const mouseEvent = params.event.event;
 
     // right click

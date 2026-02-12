@@ -33,6 +33,7 @@
     <script src="js/echarts.js"></script>
     <script src="js/echarts_circle.js"></script>
     <script src="js/echarts_sunburst.js"></script>
+    <script src="js/echarts_tree.js"></script>
 
     <style>
       /* Custom styles for the layout */
@@ -203,8 +204,10 @@
             return;
           }
           if (conf.diagram == "tree") {
-            let chart = treeChart(data);
-            d3.select("#divDiagram").append(() => chart);
+            // console.log("the data", data);
+            // let chart = treeChart(data);
+            // d3.select("#divDiagram").append(() => chart);
+            eCharts_tree(data, "divDiagram");
           } else if (conf.diagram == "sunburst") {
             eCharts_sunburstChart(data, "divDiagram");
           } else if (conf.diagram == "circle") {

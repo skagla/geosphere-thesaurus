@@ -268,7 +268,7 @@
       drillDown(params.data.id);
     });
 
-    myChart.on("mousedown", { seriesIndex: 0 }, function (params) {
+    myChart.on("mouseup", { seriesIndex: 0 }, function (params) {
       const mouseEvent = params.event.event;
 
       if (mouseEvent.button === 2) {
